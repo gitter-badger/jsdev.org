@@ -1,7 +1,7 @@
 # Site settings
 title: jsdev.org
 email: your-email@domain.com
-description: Website about java development. Java SE, Java EE
+description: Website about javascript development. Angular.js, Node.js, jQuery
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jsdev.org" # the base hostname & protocol for your site
 twitter_username: jekyllrb
