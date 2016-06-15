@@ -8,7 +8,7 @@ permalink: /
 
 There is absolutely now website about javascript development.
 
-My piblic repos with javascript projects:
+My public repos with javascript projects:
 
 <ul>
     <li><a href="https://github.com/marley-nodejs">Node.js</a></li>
