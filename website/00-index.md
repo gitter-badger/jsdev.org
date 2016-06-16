@@ -6,7 +6,9 @@ permalink: /
 
 # JavaScript Development
 
-There is absolutely now website about javascript development.
+<br/>
+
+There is absolutely new website about javascript development.
 
 My public repos with javascript projects:
 
