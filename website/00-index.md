@@ -19,3 +19,10 @@ My public repos with javascript projects:
     <li><a href="https://github.com/marley-angularjs">Angular.js</a></li>
     <li><a href="https://github.com/marley-js">JavaScript</a></li>
 </ul>
+
+
+<br/><br/>
+
+### If you have interesting open source code samples, please share it with us.
+
+Happy, programming!
