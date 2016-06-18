@@ -28,13 +28,13 @@ My public repos with javascript projects:
 Top Courses what you should watch about development: <br/><br/>
 
 
-    Docker for Web Developers
-    JavaScript-Build-Automation-With-Gulp.js
+    Docker for Web Developers (Pluralsight)
+    JavaScript Build Automation With Gulp.js (Pluralsight)
 
-<br/><br/>
+<br/>
 
 Because copy writes blocked my repos (I typed it by myself) on github.  
-I recommend not to buy this courses! Try to find it on trackers, file shares etc.
+I recommend not to buy this courses! Try to find it on trackers, file shares etc. 
 
 
 <br/><br/>
