@@ -15,6 +15,15 @@ permalink: /sitemap/
 
 Atom - best IDE for JavaScript Development.
 
+
+<br/>
+
+### Learn How to Build Simple Website With Angular 2
+
+https://www.youtube.com/playlist?list=PLDmvslp_VR0yJTn3vjFYEiGhBBjur6hk4
+
+
+
 <br/>
 
 ### Simple Angular 2 App With Angular CLI
