@@ -24,6 +24,10 @@ My public repos with javascript projects:
 
 <br/><br/>
 
+More links with no javascrpt repos you can find on my <a href="https://marley.org" rel="nofollow">website</a>
+
+<br/><br/>
+
 
 Top Courses what you should watch about development: <br/><br/>
 
@@ -34,7 +38,7 @@ Top Courses what you should watch about development: <br/><br/>
 <br/>
 
 Because copy writes blocked my repos (I typed it by myself) on github.  
-I recommend not to buy this courses! Try to find it on trackers, file shares etc. 
+I recommend not to buy this courses! Try to find it on trackers, file shares etc.
 
 
 <br/><br/>
