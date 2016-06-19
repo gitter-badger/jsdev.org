@@ -10,6 +10,23 @@ permalink: /
 
 There is absolutely new website about javascript development.
 
+
+<br/>
+
+I'm start working on video course "ReactJS and Flux Learn By Building 10 Projects".
+
+Here is my <a href="https://github.com/marley-react/ReactJS-and-Flux-Learn-By-Building-10-Projects" rel="nofollow">repo</a>.
+
+If someone will do same, It would be much more interesting that if it I will do it alone.
+
+<br/><br/>
+
+After I will finish it,  I'm planning to complete video course "Angular 2: Getting Started".
+
+
+<br/><br/>
+
+
 My public repos with javascript projects:
 
 <br/>
@@ -36,6 +53,7 @@ Top Courses what you should watch about development: <br/><br/>
     JavaScript Build Automation With Gulp.js (Pluralsight)
 
 <br/>
+
 
 Because copy writes blocked my repos (I typed it by myself) on github.  
 I recommend not to buy this courses! Try to find it on trackers, file shares etc.
