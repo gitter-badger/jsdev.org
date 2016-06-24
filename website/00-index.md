@@ -55,14 +55,6 @@ Top Courses what you should watch about development: <br/><br/>
 <br/>
 
 
-Because copy writes blocked my repos (I typed it by myself) on github.  
-I recommend not to buy this courses! Try to find it on trackers, file shares etc.
-
-
-<br/><br/>
-
-
-
 ### If you have interesting open source code samples, please share it with us.
 
 Happy, programming!
