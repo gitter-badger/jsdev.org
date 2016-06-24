@@ -36,6 +36,7 @@ My public repos with javascript projects:
     <li><a href="https://github.com/marley-angular" rel="nofollow">Angular.js</a></li>
     <li><a href="https://github.com/marley-react" rel="nofollow">React.js</a></li>
     <li><a href="https://github.com/marley-js" rel="nofollow">JavaScript</a></li>
+    <li><a href="https://github.com/oracle-jet" rel="nofollow">Oracle Jet</a></li>
 </ul>
 
 
