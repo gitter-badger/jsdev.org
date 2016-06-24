@@ -24,14 +24,14 @@ Now I'm working on position Oracle ADF Developer (That is a Java Framework with 
 
 ### Currently
 
-I'm start working on video course "ReactJS and Flux Learn By Building 10 Projects".
+I'm start working with video course "ReactJS and Flux Learn By Building 10 Projects".
 
 Here is my <a href="https://github.com/marley-react/ReactJS-and-Flux-Learn-By-Building-10-Projects" rel="nofollow">repo</a>.
 
 
 <br/><br/>
 
-After I will finish it,  I'm planning to complete video course <a href="https://github.com/marley-angular/Angular-2-Getting-Started" rel="nofollow">"Angular 2: Getting Started"</a>.
+After I'll finish it,  I'm planning to complete video course <a href="https://github.com/marley-angular/Angular-2-Getting-Started" rel="nofollow">"Angular 2: Getting Started"</a>.
 
 
 <br/>
