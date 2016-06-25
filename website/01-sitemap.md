@@ -7,6 +7,16 @@ permalink: /sitemap/
 
 ## Site Map
 
+
+
+<br/>
+
+### Atom (IDE)
+
+[Atom](/atom/)
+
+
+
 <br/>
 
 ### Node.js
