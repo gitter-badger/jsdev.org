@@ -9,6 +9,14 @@ permalink: /sitemap/
 
 <br/><br/>
 
-[Materials](/materials/)
+### Node.JS Installation on Centos 6.X
 
-[node.js installation on centos 6.X](/nodejs-installation-on-centos/)
+[Install node.js on centos 6.X](/nodejs/installation-on-centos-6/)
+[Update node.js on centos 6.X](/nodejs/update-nodejs-on-centos-6/)
+
+
+<br/><br/>
+
+### Some Materials
+
+[Materials](/materials/)

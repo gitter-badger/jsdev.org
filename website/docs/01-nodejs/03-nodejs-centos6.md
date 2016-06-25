@@ -1,10 +1,10 @@
 ---
 layout: page
-title: node.js installation on centos 6.X
-permalink: /nodejs-installation-on-centos/
+title: Install node.js on centos 6.X
+permalink: /nodejs/installation-on-centos-6/
 ---
 
-### node.js installation on centos 6.X
+### Install Node.js on centos 6.X
 
     # curl -sL https://rpm.nodesource.com/setup | bash -
     # yum install -y nodejs npm
