@@ -25,7 +25,10 @@ permalink: /nodejs/installation-on-centos-6/
 
     # npm install -g nodemon
 
+
 <br/>
+
+### Example, how to run an application on node.js server:
 
     # mkdir -p /projects/myproject
 

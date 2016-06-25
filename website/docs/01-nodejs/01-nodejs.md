@@ -6,22 +6,7 @@ permalink: /nodejs/
 
 <br/><br/>
 
+### Node.JS Installation
 
-
-<br/>
-
-### Node.JS
-
-
-    # npm install -g bower
-
-<br/>
-
-    # su - developer
-
-<br/>
-
-    $ vi ~/.bowerrc
-    {
-    	"directory": "public/vendor/lib"
-    }
+[Install node.js on centos 6.X](/nodejs/installation-on-centos-6/)  
+[Update node.js on centos 6.X](/nodejs/update-nodejs-on-centos-6/)

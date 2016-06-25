@@ -5,14 +5,14 @@ permalink: /sitemap/
 ---
 
 
-### Site Map
+## Site Map
 
-<br/><br/>
+<br/>
 
-### Node.JS Installation on Centos 6.X
+### Node.js
 
-[Install node.js on centos 6.X](/nodejs/installation-on-centos-6/)
-[Update node.js on centos 6.X](/nodejs/update-nodejs-on-centos-6/)
+[Node.js](/nodejs/)
+
 
 
 <br/><br/>
