@@ -57,11 +57,23 @@ More links with no Java Scrpt repos you can find on my <a href="https://marley.o
 <br/>
 <br/>
 
-### Top Courses what you should watch to prepare development environment: <br/><br/>
+### Top Courses what you should watch to prepare development environment:
 
 
     Docker for Web Developers (Pluralsight)
     JavaScript Build Automation With Gulp.js (Pluralsight)
+
+<br/>
+
+
+<br/>
+<br/>
+
+### If You will watch video course and agree to share results, please write email to me:
+
+email:  
+![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
+
 
 <br/>
 
