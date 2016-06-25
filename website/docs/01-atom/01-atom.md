@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Atom (IDE)
-permalink: /nodejs/
+permalink: /atom/
 ---
 
 <br/><br/>
