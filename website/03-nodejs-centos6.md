@@ -44,7 +44,10 @@ permalink: /nodejs-installation-on-centos/
     	"directory": "public/vendor/lib"
     }
 
+
 <br/>  
+
+### Example how to run oracle jet application on node.js server
 
     $ cd /projects/myproject/
 
@@ -52,7 +55,6 @@ permalink: /nodejs-installation-on-centos/
 
     $ npm install express-generator -g
     $ express oraclejetwithnodejs
-
 
 <br/>
 

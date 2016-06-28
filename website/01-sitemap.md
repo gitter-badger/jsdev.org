@@ -12,3 +12,6 @@ permalink: /sitemap/
 [Materials](/materials/)
 
 [node.js installation on centos 6.X](/nodejs-installation-on-centos/)
+
+
+[List of JavaScript Library (Unknown for me)](/js-library-list/)
