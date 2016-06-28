@@ -5,13 +5,30 @@ permalink: /sitemap/
 ---
 
 
-### Site Map
+## Site Map
+
+
+
+<br/>
+
+### Atom (IDE)
+
+[Atom](/atom/)
+
+
+
+<br/>
+
+### Node.js
+
+[Node.js](/nodejs/)
+
+
 
 <br/><br/>
 
+### Some Materials
+
 [Materials](/materials/)
-
-[node.js installation on centos 6.X](/nodejs-installation-on-centos/)
-
 
 [List of JavaScript Library (Unknown for me)](/js-library-list/)
