@@ -13,6 +13,15 @@ That is absolutely new website about javascript development.
 
 <br/>
 
+### If you can recommend interesting video courses for me, please do it. Or if you will watch video courses and agree to share results, please write email to me:
+
+email:  
+![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
+
+
+
+<br/>
+
 ### I'm trying to study Java Script frameworks and want to be a Java Script developer too
 
 
@@ -64,18 +73,6 @@ More links with no Java Scrpt repos you can find on my <a href="https://marley.o
 
     Docker for Web Developers (Pluralsight)
     JavaScript Build Automation With Gulp.js (Pluralsight)
-
-<br/>
-
-
-<br/>
-<br/>
-
-### If You will watch video course and agree to share results, please write email to me:
-
-email:  
-![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
-
 
 <br/>
 
