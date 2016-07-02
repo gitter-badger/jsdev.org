@@ -30,6 +30,11 @@ Now I'm working on position Oracle ADF Developer (That is a Java Framework with 
 
 <br/>
 
+### And of course I want to improve my English too. And if it possible, please correct my mistakes. I will appreciate it.
+
+
+<br/>
+
 
 ### Currently
 
