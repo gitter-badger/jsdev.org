@@ -30,3 +30,5 @@ permalink: /sitemap/
 ### Some Materials
 
 [Materials](/materials/)
+
+[List of JavaScript Library (Unknown for me)](/js-library-list/)
