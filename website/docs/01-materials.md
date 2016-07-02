@@ -9,11 +9,6 @@ permalink: /materials/
 ### Some Materials
 
 
-<br/>
-
-### Docker Tutorials
-https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc
-
 
 <br/>
 
@@ -70,8 +65,6 @@ https://www.youtube.com/watch?v=2LeqilIw-28
 ### Learning React.js [1] - An Overview
 
 https://www.youtube.com/watch?v=vYldnghykaU
-
-
 
 
 <br/>

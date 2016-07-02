@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Install Atom on Ubuntu 14.04
-permalink: /atom/install-atom-on-ubuntu-14-04/
+permalink: /env/atom/install-atom-on-ubuntu-14-04/
 ---
 
 <br/><br/>
