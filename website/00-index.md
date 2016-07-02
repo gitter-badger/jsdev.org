@@ -44,8 +44,8 @@ and watch video course "Learn MeteorJS By Building 10 Real World Projects".
 
 <ul>
     <li><a href="https://github.com/marley-nodejs" rel="nofollow">Node.js</a></li>
-    <li><a href="https://github.com/marley-angular" rel="nofollow">Angular.js</a></li>
-    <li><a href="https://github.com/marley-react" rel="nofollow">React.js</a></li>
+    <li><a href="https://github.com/marley-angularjs" rel="nofollow">Angular.js</a></li>
+    <li><a href="https://github.com/marley-reactjs" rel="nofollow">React.js</a></li>
     <li><a href="https://github.com/oracle-jet" rel="nofollow">Oracle Jet</a></li>
     <li><a href="https://github.com/marley-js" rel="nofollow">JavaScript + jQuery</a></li>
 </ul>

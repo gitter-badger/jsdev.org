@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=SK0sqfVn7ls
 
 <br/>
 
-Docker for Developers - Part 2
+Docker for Developers - Part 2  
 https://www.youtube.com/watch?v=ZsIb5tkyncA
 
 <br/>
