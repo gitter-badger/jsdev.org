@@ -19,9 +19,9 @@ permalink: /sitemap/
 
 <br/>
 
-### Node.js
+### JS and Freameworks
 
-[Node.js](/nodejs/)
+[JS and Freameworks](/js/)
 
 
 
