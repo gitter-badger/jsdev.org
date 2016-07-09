@@ -37,6 +37,27 @@ permalink: /sitemap/
 
 <br/><br/>
 
+### jQuery Essentials Tutorial Series
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUpnKy5Si8zAMOOLR6U0AjiQsSJso4G-K" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+<br/><br/>
+
+### Beginner Javascript Tutorials
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0981F6FFC066E386" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+<br/><br/>
+
 ### ECMAScript 6 / ES6 New Features Tutorials
 
 <div align="center">
