@@ -35,6 +35,55 @@ permalink: /sitemap/
 
 
 
+
+
+
+
+
+<br/><br/>
+
+### Looking for: Learn Angular 2 Development By Building 10 Apps
+
+If you have, please share with me... ))
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0zsd3-IjO9iE4WB-3dBlgmT" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+
+<br/><br/>
+
+### Learn How to Build Simple Website With Angular 2
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0yJTn3vjFYEiGhBBjur6hk4" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+
+
+
+
+<br/><br/>
+
+### Learn How to Create a Resume using SASS
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0zh7UX-e5TZ2TV3w5C20cnz" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+
+
+
+
 <br/><br/>
 
 ### jQuery Essentials Tutorial Series
