@@ -61,6 +61,11 @@ https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-
 <hr/>
 
 
+<br/>
+<hr/>
+
+
+## Other
 
 [List of JavaScript Library (Unknown for me)](/js-library-list/)
 
