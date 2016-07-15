@@ -19,9 +19,30 @@ permalink: /sitemap/
 
 <br/>
 
-### JS and Freameworks
+### ECMAScript 6 Tutorial
 
-[JS and Freameworks](/js/)
+[es6](/es6/)
+
+
+<br/>
+
+### javascript-patterns
+
+https://github.com/norlin/javascript-patterns
+
+
+<br/>
+
+### Freameworks
+
+[Freameworks](/js/)
+
+
+<br/>
+
+### Node.JS
+
+[Node.JS](/nodejs/)
 
 
 

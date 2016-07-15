@@ -8,15 +8,6 @@ permalink: /materials/
 
 ### Some Materials
 
-
-
-<br/>
-
-### Node.js Tutorials
-https://www.youtube.com/playlist?list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh
-
-
-
 <br/>
 
 ### Javascript Tutorial For Beginners
@@ -49,15 +40,6 @@ https://www.youtube.com/playlist?list=PLDmvslp_VR0yJTn3vjFYEiGhBBjur6hk4
 
 
 </div>
-
-
-
-<br/>
-
-### JavaScript ES6 / ES2015 - [01] Introduction
-
-https://www.youtube.com/watch?v=2LeqilIw-28
-
 
 
 <br/>

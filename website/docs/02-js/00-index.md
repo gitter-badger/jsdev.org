@@ -8,14 +8,6 @@ permalink: /js/
 
 ### JS Freameworks
 
-
-<br/>
-
-### Node.js
-
-[Node.js](/nodejs/)
-
-
 <br/>
 
 ### Oracle Jet
