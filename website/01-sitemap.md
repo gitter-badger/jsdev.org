@@ -16,29 +16,37 @@ permalink: /sitemap/
 </ul>
 
 
+<br/>
+
+## Java Script
 
 <br/>
 
 ### ECMAScript 6 Tutorial
 
-[es6](/es6/)
+[ECMAScript 6](/es6/)
 
 
 <br/>
 
 ### javascript-patterns
 
-https://github.com/norlin/javascript-patterns
+https://github.com/marley-js/javascript-patterns
+
+<br/>
+<hr/>
+<br/>
+
+## Frontend
+
+[Frontend](/frontend/)
 
 
 <br/>
-
-### Freameworks
-
-[Freameworks](/js/)
-
-
+<hr/>
 <br/>
+
+## BackEnd
 
 ### Node.JS
 
@@ -46,22 +54,20 @@ https://github.com/norlin/javascript-patterns
 
 
 
-<br/><br/>
+<br/>
+<hr/>
+<br/>
 
-### Some Materials
+## Some Materials
 
 [Materials](/materials/)
 
 [List of JavaScript Library (Unknown for me)](/js-library-list/)
 
 
-
-
-
-
-
-
-<br/><br/>
+<br/>
+<hr/>
+<br/>
 
 ### Looking for: Learn Angular 2 Development By Building 10 Apps
 
