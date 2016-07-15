@@ -34,8 +34,7 @@ https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-
 
 <br/>
 
-### ECMAScript 6 Tutorial
-
+[js](/js/)  
 [ECMAScript 6](/es6/)
 
 
