@@ -5,6 +5,18 @@ permalink: /frontend/angular/2/
 ---
 
 
+<br/><br/>
+
+### Learn How to Build Simple Website With Angular 2
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0yJTn3vjFYEiGhBBjur6hk4" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+
 <br/>
 
 ### Learn How to Build Simple Website With Angular 2
