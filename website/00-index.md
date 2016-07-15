@@ -30,7 +30,7 @@ Now I'm working on position Oracle ADF Developer (That is a Java Framework with 
 
 <br/>
 
-### And of course I want to improve my English too. And if it possible, please correct my mistakes. I will appreciate it.
+### And I want to improve my English. And if it possible, please correct my mistakes. I will appreciate it.
 
 
 <br/>
@@ -83,7 +83,3 @@ More links with no Java Scrpt repos you can find on my <a href="https://marley.o
 
 
 ### If you have interesting open source code samples, please share it with us and you can add something your on this website, share your experience etc.
-
-<br/>
-
-Happy, programming!
