@@ -27,7 +27,7 @@ permalink: /sitemap/
 
 ## HTML Templates:
 
-<a href="/html-templates/">HTML Templates</a> ||
+<a href="/html-templates/">HTML Templates</a>
 
 
 <br/>
