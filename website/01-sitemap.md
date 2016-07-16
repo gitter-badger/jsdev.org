@@ -76,7 +76,8 @@ permalink: /sitemap/
 
 ### Looking for: Learn Angular 2 Development By Building 10 Apps
 
-If you have, please share with me... ))
+If you have, please share with me... ))  
+I don't want to buy it.
 
 <div align="center">
 

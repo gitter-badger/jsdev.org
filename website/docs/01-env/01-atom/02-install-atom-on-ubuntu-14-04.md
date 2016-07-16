@@ -19,7 +19,7 @@ More information you can find on:
 http://www.webupd8.org/2014/05/install-atom-text-editor-in-ubuntu-via-ppa.html
 
 
-br/>
+<br/>
 
 ### Additional setup:
 
@@ -99,6 +99,3 @@ Edit --> Preferences --> Install
     # 1 - 21 votes
     Dennis Vlaanderen
     https://atom.io/packages/atom-bootstrap4
-
-
-<br/>
