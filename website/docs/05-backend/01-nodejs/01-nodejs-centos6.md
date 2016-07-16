@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Install node.js on centos 6.X
-permalink: /nodejs/installation-on-centos-6/
+permalink: /backend/nodejs/installation-on-centos-6/
 ---
 
 ### Install Node.js on centos 6.X

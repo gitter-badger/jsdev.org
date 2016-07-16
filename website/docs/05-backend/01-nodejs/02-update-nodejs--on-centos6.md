@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Update node.js on centos 6.X
-permalink: /nodejs/update-nodejs-on-centos-6/
+permalink: /backend/nodejs/update-nodejs-on-centos-6/
 ---
 
 ### Update Node.js on centos 6.X

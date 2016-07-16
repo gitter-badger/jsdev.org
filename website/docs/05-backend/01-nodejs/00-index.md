@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Node.JS
-permalink: /nodejs/
+permalink: /backend/nodejs/
 ---
 
 <br/><br/>
 
 ### Node.JS Installation
 
-[Install node.js on centos 6.X](/nodejs/installation-on-centos-6/)  
-[Update node.js on centos 6.X](/nodejs/update-nodejs-on-centos-6/)
+[Install node.js on centos 6.X](/backend/nodejs/installation-on-centos-6/)  
+[Update node.js on centos 6.X](/backend/nodejs/update-nodejs-on-centos-6/)
 
 
 <br/>
