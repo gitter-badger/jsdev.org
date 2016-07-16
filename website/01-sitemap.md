@@ -12,12 +12,10 @@ permalink: /sitemap/
 
 <br/>
 
-### Environment:
+## Environment:
 
-<ul>
-    <li><a href="/env/atom/">Atom</a></li>
-    <li><a href="/env/docker/">Docker</a></li>
-</ul>
+<a href="/env/atom/">Atom</a> ||
+<a href="/env/docker/">Docker</a>
 
 
 <br/>
