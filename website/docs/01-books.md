@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+### The JavaScript Encyclopedia  
+http://www.crockford.com/javascript/encyclopedia/
 
 <br/>
 
