@@ -20,7 +20,7 @@ permalink: /frontend/
 
 ### Angular.js
 
-[Angular 2](/frontend/angular/2/)
+[Angular](/frontend/angular/)
 
 
 <br/>
