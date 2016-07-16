@@ -44,7 +44,9 @@ https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-
 
 ## Frontend
 
-[Frontend](/frontend/)
+[jQuery](/frontend/jquery/) || [Angular](/frontend/angular/) || [React](/frontend/react/) || [Oracle Jet](/js/oracle-jet/)
+
+
 
 
 <br/>
@@ -52,8 +54,6 @@ https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-
 
 
 ## BackEnd
-
-### Node.JS
 
 [Node.JS](/nodejs/)
 
