@@ -24,10 +24,9 @@ permalink: /sitemap/
 
 ## Java Script
 
-<br/>
+<a href="/js/">js</a> ||
+<a href="/es6/">ECMAScript 6</a>
 
-[js](/js/)  
-[ECMAScript 6](/es6/)
 
 
 <br/>
