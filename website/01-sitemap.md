@@ -20,6 +20,13 @@ permalink: /sitemap/
 
 <br/>
 
+## HTML Templates:
+
+<a href="/html-templates/">HTML Templates</a> ||
+
+
+<br/>
+
 ## Java Script
 
 <a href="/js/">js</a> ||
