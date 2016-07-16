@@ -36,9 +36,10 @@ permalink: /sitemap/
 
 ## Front end
 
-[jQuery](/frontend/jquery/) || [Angular](/frontend/angular/) || [React](/frontend/react/) || [Oracle Jet](/js/oracle-jet/)
-
-
+<a href="/frontend/jquery/">jQuery</a> ||
+<a href="/frontend/angular/">Angular</a> ||
+<a href="/frontend/react/">React</a> ||
+<a href="/js/oracle-jet/">Oracle Jet</a>
 
 
 <br/>
