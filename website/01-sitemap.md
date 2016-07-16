@@ -12,7 +12,7 @@ permalink: /sitemap/
 
 ## Books:
 
-[Books](books/)
+[Books](/books/)
 
 
 <br/>
