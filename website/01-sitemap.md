@@ -19,9 +19,7 @@ permalink: /sitemap/
 
 ## Environment:
 
-<a href="/env/atom/">Atom</a> ||
-<a href="/env/docker/">Docker</a>
-
+<a href="/env/">Environment</a>
 
 <br/>
 
