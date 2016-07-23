@@ -95,3 +95,13 @@ I don't want to buy it.
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0zh7UX-e5TZ2TV3w5C20cnz" frameborder="0" allowfullscreen></iframe>
 
 </div>
+
+
+
+
+<br/><br/>
+
+<strong>Courses what I'm planning to watch in the future:</strong>
+
+
+[Frontend Masters] Rethinking Asynchronous JavaScript [2016, ENG]
