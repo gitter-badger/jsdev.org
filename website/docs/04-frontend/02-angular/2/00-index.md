@@ -4,6 +4,10 @@ title: Angular.js
 permalink: /frontend/angular/2/
 ---
 
+<br/><br/>
+
+https://github.com/timjacobi/angular2-education
+
 
 <br/><br/>
 
