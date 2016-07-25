@@ -41,7 +41,7 @@ permalink: /sitemap/
 <hr/>
 
 
-## Front end
+## Front end (Frameworks)
 
 <a href="/frontend/jquery/">jQuery</a> ||
 <a href="/frontend/angular/">Angular</a> ||
