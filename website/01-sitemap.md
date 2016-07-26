@@ -49,6 +49,7 @@ permalink: /sitemap/
 Ember ||
 backbone ||
 knockout ||
+require ||
 <a href="/js/oracle-jet/">Oracle Jet</a>
 
 

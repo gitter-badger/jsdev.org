@@ -8,7 +8,7 @@ permalink: /databases/mongodb/
 
 ### Projects in MongoDB Learn MongoDB Building Ten Projects
 
-Only 1 good course for study, how to programming on Java For MongoDB
+Only 1 good course for study, how to programming on JavaScript For MongoDB
 
 https://www.eduonix.com/courses/Web-Development/Projects-in-MongoDB-Learn-MongoDB-Building-Ten-Projects
 
