@@ -6,19 +6,15 @@ permalink: /databases/mongodb/
 
 <br/><br/>
 
-### Learn Nodejs by building 12 Projects From Scratch
+### Projects in MongoDB Learn MongoDB Building Ten Projects
 
-Only 1 good course for study I've know
+Only 1 good course for study, how to programming on Java For MongoDB
 
-https://www.eduonix.com/courses/Web-Development/Learn-Nodejs-by-building-10-Projects-From-Scratch
-
-
-I download with 10 project. May anyone share course with 12 project with me?
+https://www.eduonix.com/courses/Web-Development/Projects-in-MongoDB-Learn-MongoDB-Building-Ten-Projects
 
 
+<br/><br/>
 
-<br/>
-
-Some Examples:
+Some Other Examples:
 
 https://github.com/marley-nodejs/Build-a-Real-Time-web-app-in-node.js-Angular.js-mongoDB
