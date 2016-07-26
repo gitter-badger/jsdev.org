@@ -46,7 +46,6 @@ permalink: /sitemap/
 <a href="/frontend/jquery/">jQuery</a> ||
 <a href="/frontend/angular/">Angular</a> ||
 <a href="/frontend/react/">React</a> ||
-
 Ember ||
 backbone ||
 knockout ||
