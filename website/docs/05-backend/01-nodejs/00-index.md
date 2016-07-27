@@ -4,12 +4,14 @@ title: Node.JS
 permalink: /backend/nodejs/
 ---
 
+### Node.JS
+
 <br/><br/>
 
 ### Node.JS Installation
 
-[Install node.js on centos 6.X](/backend/nodejs/installation-on-centos-6/)  
-[Update node.js on centos 6.X](/backend/nodejs/update-nodejs-on-centos-6/)
+[Node.js installation on centos 6.X](/backend/nodejs/installation-on-centos-6/)  
+[How to update Node.js on centos 6.X](/backend/nodejs/update-nodejs-on-centos-6/)
 
 
 <br/>

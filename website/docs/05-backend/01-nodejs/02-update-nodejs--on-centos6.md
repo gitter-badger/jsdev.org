@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Update node.js on centos 6.X
+title: How to update Node.js on centos 6.X
 permalink: /backend/nodejs/update-nodejs-on-centos-6/
 ---
 
-### Update Node.js on centos 6.X
+### How to update Node.js on centos 6.X
 
 <br/>
 

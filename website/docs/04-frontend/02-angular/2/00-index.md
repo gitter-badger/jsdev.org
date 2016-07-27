@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Angular.js
+title: Angular.js 2
 permalink: /frontend/angular/2/
 ---
+
+### Angular.js 2
 
 <br/><br/>
 
