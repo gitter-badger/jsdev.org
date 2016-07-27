@@ -8,11 +8,6 @@ permalink: /frontend/angular/2/
 
 <br/><br/>
 
-https://github.com/timjacobi/angular2-education
-
-
-<br/><br/>
-
 ### Learn How to Build Simple Website With Angular 2
 
 <div align="center">
@@ -21,6 +16,11 @@ https://github.com/timjacobi/angular2-education
 
 </div>
 
+<br/>
+<br/>
+
+### A curated list of helpful material to get started with education on Angular 2
+https://github.com/marley-angular/angular2-education
 
 
 <br/>
