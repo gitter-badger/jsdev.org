@@ -51,6 +51,7 @@ After I'll finish it,  I'm planning to complete next video courses:
     <li>Learn MeteorJS By Building 10 Real World Projects</li>
     <li>Projects in MongoDB Learn MongoDB Building Ten Projects</li>
     <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started" rel="nofollow">"Angular 2: Getting Started"</a></li>
+    <li>[Frontend Masters] Rethinking Asynchronous JavaScript [2016, ENG]</li>
 </ul>
 
 <br/>
