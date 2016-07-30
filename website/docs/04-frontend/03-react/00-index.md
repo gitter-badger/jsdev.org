@@ -6,6 +6,11 @@ permalink: /frontend/react/
 
 ### React.js
 
+
+<br/>
+
+<a href="https://github.com/marley-react/ReactJS-and-Flux-Learn-By-Building-10-Projects" rel="nofollow">ReactJS and Flux Learn By Building 10 Projects</a> (src)
+
 <br/>
 
 ### [Eduonix] ReactJS and Flux: Learn By Building 10 Projects [ENG, 2016]
