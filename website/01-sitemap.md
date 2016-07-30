@@ -19,7 +19,7 @@ permalink: /sitemap/
 
 ## Environment:
 
-<a href="/env/">Environment</a>
+<a href="/env/">Environment</a> : coreos -> docker -> ubuntu | debian | centos -> atom
 
 <br/>
 
