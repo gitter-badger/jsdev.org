@@ -58,6 +58,8 @@ After I'll finish it,  I'm planning to complete next video courses:
 
 But, if I'll find "Learn Angular 2 Development By Building 10 Apps", i think, i will study this course.
 
+Huh, Udemy watns $15 for this course. 
+
 
 
 <br/>
