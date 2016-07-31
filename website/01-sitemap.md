@@ -24,6 +24,11 @@ permalink: /sitemap/
 Server::: coreos (actually not) -> docker -> ubuntu | debian | centos6 -> git -> nodejs  
 Dev::: ubuntu -> docker with centos6 -> git on github | bitbucket -> nodejs -> atom -> gulp
 
+<br/><br/>
+
+May be, later I will start use sonarqube for code analysis.
+
+
 <br/>
 
 ## HTML Templates:
