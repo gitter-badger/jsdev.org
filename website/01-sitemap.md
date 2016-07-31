@@ -21,13 +21,13 @@ permalink: /sitemap/
 
 <a href="/env/">Environment</a> <br/>
 
-Server::: coreos (actually not, but I want to start this linux) -> docker -> ubuntu \| debian \| centos6 -> git -> nodejs -> mongodb  
+Server::: coreos (actually not, but I want to start use this linux) -> docker -> ubuntu \| debian \| centos6 -> git -> nodejs -> mongodb  
 
-Dev::: ubuntu -> docker with centos6 -> git on github \ bitbucket -> nodejs -> mongodb --> atom -> gulp
+Dev::: ubuntu -> docker with centos6 -> git on github \| bitbucket -> nodejs -> mongodb --> atom -> gulp
 
 <br/><br/>
 
-May be, later I will start use sonarqube for code analysis.
+May be, later I will start use sonarqube for code analysis. (If it works for free for js code)
 
 
 <br/>
