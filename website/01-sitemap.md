@@ -21,7 +21,8 @@ permalink: /sitemap/
 
 <a href="/env/">Environment</a> <br/>
 
-Server::: coreos (actually not, but I want to start this linux) -> docker -> ubuntu \| debian \| centos6 -> git -> nodejs -> mongodb
+Server::: coreos (actually not, but I want to start this linux) -> docker -> ubuntu \| debian \| centos6 -> git -> nodejs -> mongodb  
+
 Dev::: ubuntu -> docker with centos6 -> git on github \ bitbucket -> nodejs -> mongodb --> atom -> gulp
 
 <br/><br/>
