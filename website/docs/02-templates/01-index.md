@@ -11,7 +11,8 @@ permalink: /html-templates/
 https://github.com/marley-html?tab=repositories  
 https://html5up.net/  
 http://bootstrapious.com/portfolio-themes  
-
+http://templated.co  
+http://themes.3rdwavemedia.com/  
 
 
 <br/>
