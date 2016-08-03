@@ -13,7 +13,7 @@ That is absolutely new website about javascript development.
 
 <br/>
 
-### If you can recommend interesting video courses for me, please do it. Or if you will watch video courses and agree to share results, please write email to me:
+### If you can recommend interesting video courses for me, please do it. Or if you will watch video courses and agree to share results, please write email:
 
 email:  
 ![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
@@ -58,7 +58,7 @@ After I'll finish it,  I'm planning to complete next video courses:
 
 But, if I'll find "Learn Angular 2 Development By Building 10 Apps", i think, i will study this course.
 
-Huh, Udemy watns $15 for this course. 
+Huh, Udemy watns $15 for this course.
 
 
 
