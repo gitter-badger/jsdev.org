@@ -119,14 +119,3 @@ I don't want to buy it.
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0zsd3-IjO9iE4WB-3dBlgmT" frameborder="0" allowfullscreen></iframe>
 
 </div>
-
-
-<br/><br/>
-
-### Learn How to Create a Resume using SASS
-
-<div align="center">
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0zh7UX-e5TZ2TV3w5C20cnz" frameborder="0" allowfullscreen></iframe>
-
-</div>
