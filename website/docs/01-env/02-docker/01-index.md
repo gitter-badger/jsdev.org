@@ -7,7 +7,7 @@ permalink: /env/docker/
 ### Docker
 
 
-Best course what i've seen about docker that is **[Pluralsight] Docker for Web Developers**
+Best course what i've seen about docker for developers is **[Pluralsight] Docker for Web Developers**
 
 
 But stupid bitch Kelly Manley From PiracySolution, blocked my repos what I typed by myself.  

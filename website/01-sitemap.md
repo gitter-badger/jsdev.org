@@ -25,9 +25,12 @@ Server::: coreos (actually not, but I want to start use this linux) -> docker ->
 
 Dev::: ubuntu -> docker with centos6 -> git on github \| bitbucket -> nodejs -> mongodb --> atom -> gulp
 
-<br/><br/>
 
-May be, later I will start use sonarqube for code analysis. (If it works for free for js code)
+<br/>
+
+## Control Version:
+
+git
 
 
 <br/>
@@ -44,6 +47,12 @@ May be, later I will start use sonarqube for code analysis. (If it works for fre
 <a href="/js/">js</a> ||
 <a href="/es6/">ECMAScript 6</a>
 
+
+<br/>
+
+## Assembly Tools
+
+grunt || <a href="/assembly/gulp/">gulp</a>
 
 
 <br/>
@@ -92,12 +101,48 @@ postman || firebug || Scratchpad
 <a href="/databases/rethinkdb/">Rethinkdb</a>
 
 
+
+<br/>
+<hr/>
+
+
+## Testing
+
+Mocha, Should, Selenium etc.
+
+
+<br/>
+<hr/>
+
+
+## Continious Integration
+
+travis-ci
+
+<br/>
+<hr/>
+
+
+## Cloud Services
+
+Heroku | Amazon (works bad with Express applications) | Digital Ocean.
+
+
+
+<br/>
+<hr/>
+
+
+## Code Quality
+
+May be, later I will start use sonarqube for code analysis. (If it works for free for js code. For java works)
+
+
 <br/>
 <br/>
 <hr/>
 <br/>
 <br/>
-
 
 
 ## Other
