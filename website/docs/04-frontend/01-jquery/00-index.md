@@ -4,12 +4,21 @@ title: jQuery
 permalink: /frontend/jquery/
 ---
 
+
 ### jQuery
+
+
+
 
 <br/><br/>
 
-### jQuery
+### Learn to Build a jQuery Mobile App from Scratch
 
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0yMa1zLI7R2pkz1fJsfXntG" frameborder="0" allowfullscreen></iframe>
+
+</div>
 
 <br/><br/>
 
