@@ -42,24 +42,24 @@ git
 
 <br/>
 
-## Java Script
-
-<a href="/js/">js</a> ||
-<a href="/es6/">ECMAScript 6</a>
-
-
-<br/>
-
 ## Assembly Tools
 
 grunt || <a href="/assembly/gulp/">gulp</a>
 
 
 <br/>
+
+## Java Script
+
+<a href="/frontend/js/">js</a> ||
+<a href="/frontend/es6/">ECMAScript 6</a>
+
+
+
+<br/>
 <hr/>
 
-
-## Front end (Frameworks)
+## Client Side Frameworks
 
 <a href="/frontend/jquery/">jQuery</a> ||
 <a href="/frontend/angular/">Angular</a> ||
@@ -76,7 +76,7 @@ require ||
 <hr/>
 
 
-## Back end
+## Server Side Frameworks
 
 <a href="/backend/nodejs/">Node.JS</a> ||
 <a href="/backend/expressjs/">Express.JS</a>
