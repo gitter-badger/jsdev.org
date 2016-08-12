@@ -28,9 +28,9 @@ Dev::: ubuntu -> docker with centos6 -> git on github \| bitbucket -> nodejs -> 
 
 <br/>
 
-## Control Version:
+## Version Control:
 
-git
+<a href="/git/">git</a>
 
 
 <br/>
