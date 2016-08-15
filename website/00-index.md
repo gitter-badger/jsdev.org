@@ -38,13 +38,11 @@ Now I'm working on position Oracle ADF Developer (That is a Java Framework with 
 
 ### Currently
 
-
-<br/><br/>
-
 I'm planning to complete next video courses:
 
 <ul>
     <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started"   rel="nofollow">"Angular 2: Getting Started"</a></li>
+    <li>Learn ExpressJs building 10 projects</li>
     <li>Learn MeteorJS By Building 10 Real World Projects</li>
     <li>Projects in MongoDB Learn MongoDB Building Ten Projects</li>
     <li>[Frontend Masters] Rethinking Asynchronous JavaScript [2016, ENG]</li>
