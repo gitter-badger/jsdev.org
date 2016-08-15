@@ -38,28 +38,21 @@ Now I'm working on position Oracle ADF Developer (That is a Java Framework with 
 
 ### Currently
 
-I'm start working with video course "ReactJS and Flux Learn By Building 10 Projects".
-
-Here is my <a href="https://github.com/marley-react/ReactJS-and-Flux-Learn-By-Building-10-Projects" rel="nofollow">repo</a>.
-
 
 <br/><br/>
 
-After I'll finish it,  I'm planning to complete next video courses:
+I'm planning to complete next video courses:
 
 <ul>
+    <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started"   rel="nofollow">"Angular 2: Getting Started"</a></li>
     <li>Learn MeteorJS By Building 10 Real World Projects</li>
     <li>Projects in MongoDB Learn MongoDB Building Ten Projects</li>
-    <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started" rel="nofollow">"Angular 2: Getting Started"</a></li>
     <li>[Frontend Masters] Rethinking Asynchronous JavaScript [2016, ENG]</li>
 </ul>
 
 <br/>
 
-But, if I'll find "Learn Angular 2 Development By Building 10 Apps", i think, i will study this course.
-
-Huh, Udemy watns $15 for this course.
-
+But, if I'll find "Learn Angular 2 Development By Building 12 Apps", i think, i will study this course.
 
 
 <br/>
