@@ -48,10 +48,23 @@ I'm planning to complete next video courses:
     <li>[Frontend Masters] Rethinking Asynchronous JavaScript [2016, ENG]</li>
 </ul>
 
+
+ <br/> <br/>
+
+Learn Angular 2 Development By Building 12 Apps - 10$ <br/>
+https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-building-10-apps
+
 <br/>
 
-But, if I'll find "Learn Angular 2 Development By Building 12 Apps", i think, i will study this course.
+<div align="center">
 
+<img src="http://storage1.static.itmages.ru/i/16/0816/h_1471383150_2791342_46d2c3b789.png">
+
+</div>
+
+<br/>
+
+To buy or not to buy. May be anyone share with me?
 
 <br/>
 
