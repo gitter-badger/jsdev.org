@@ -8,6 +8,24 @@ permalink: /frontend/angular/2/
 
 <br/><br/>
 
+
+Angular 2 Github Application - Freestyle Coding [1]
+https://www.youtube.com/watch?v=u83MLQ1VsKI
+
+
+
+### Angular 2 Spotify App
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLillGF-RfqbYmJsLiPDVoDea3lfy7-E8O" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+<br/>
+
+
 ### Learn How to Build Simple Website With Angular 2
 
 <div align="center">

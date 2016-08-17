@@ -16,6 +16,12 @@ permalink: /backend/nodejs/
 
 <br/>
 
+### Node.js & PostgreSQL Recipe App
+https://www.youtube.com/playlist?list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW
+
+
+<br/>
+
 ### Node.js Tutorials
 https://www.youtube.com/playlist?list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh
 
