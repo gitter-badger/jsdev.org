@@ -8,6 +8,16 @@ permalink: /frontend/jquery/
 ### jQuery
 
 
+<br/><br/>
+
+### Learn jQuery by making a Content Slider
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0xkHNFdz_BmB3b_ISq-kvyP" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
 
 
 <br/><br/>

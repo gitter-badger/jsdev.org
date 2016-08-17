@@ -76,6 +76,7 @@ To buy or not to buy. May be anyone share with me?
     <li><a href="https://github.com/marley-nodejs" rel="nofollow">Node.js</a></li>
     <li><a href="https://github.com/marley-angular" rel="nofollow">Angular.js</a></li>
     <li><a href="https://github.com/marley-react" rel="nofollow">React.js</a></li>
+    <li><a href="https://github.com/marley-meteor" rel="nofollow">Meteor.js</a></li>
     <li><a href="https://github.com/oracle-jet" rel="nofollow">Oracle Jet</a></li>
     <li><a href="https://github.com/marley-js" rel="nofollow">JavaScript + jQuery</a></li>
 </ul>
