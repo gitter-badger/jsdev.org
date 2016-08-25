@@ -13,9 +13,8 @@ That is absolutely new website about javascript development.
 
 <br/>
 
-### If you can recommend interesting video courses for me, please do it. Or if you will watch video courses and agree to share results, please write email:
-
-email:  
+### If you can recommend interesting video courses for me, please do it. Or if you will watch video courses and agree to share results, please write on email:
+ 
 ![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
 
 
