@@ -14,7 +14,7 @@ That is absolutely new website about javascript development.
 <br/>
 
 ### If you can recommend interesting video courses for me, please do it. Or if you will watch video courses and agree to share results, please write on email:
- 
+
 ![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
 
 
@@ -64,6 +64,17 @@ https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-b
 <br/>
 
 To buy or not to buy. May be anyone share with me?
+
+
+
+
+<br/>
+
+### Public repos with HTML Templates:
+
+<ul>
+    <li><a href="https://github.com/marley-html" rel="nofollow">HTML Templates</a></li>
+</ul>
 
 <br/>
 
