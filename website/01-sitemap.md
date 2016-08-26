@@ -159,19 +159,3 @@ May be, later I will start use sonarqube for code analysis. (If it works for fre
 ## Other
 
 [List of JavaScript Library (Unknown for me)](/js-library-list/)
-
-
-<br/>
-<hr/>
-<br/>
-
-### Looking for: Learn Angular 2 Development By Building 10 Apps
-
-If you have, please share with me... ))  
-I don't want to buy it.
-
-<div align="center">
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDmvslp_VR0zsd3-IjO9iE4WB-3dBlgmT" frameborder="0" allowfullscreen></iframe>
-
-</div>
