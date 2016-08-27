@@ -37,10 +37,21 @@ Now I'm working on position Oracle ADF Developer (That is a Java Framework with 
 
 ### Currently
 
-I'm planning to complete next video courses:
+Now I'm working on video course by Lynda
+
+<a href="https://github.com/marley-nodejs/MEAN-Stack-and-MongoDB-Development-Techniques" rel="nofollow">MEAN-Stack-and-MongoDB-Development-Techniques</a>
+
+And I'm reading book  
+Getting MEAN with Mongo, Express, Angular, and Node
+
+
+
+### Next
+
+I'm planning to complete next video courses (to remember):
 
 <ul>
-    <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started"   rel="nofollow">"Angular 2: Getting Started"</a></li>
+    <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started" rel="nofollow">Angular 2: Getting Started</a></li>
     <li>Learn ExpressJs building 10 projects</li>
     <li>Learn MeteorJS By Building 10 Real World Projects</li>
     <li>Projects in MongoDB Learn MongoDB Building Ten Projects</li>

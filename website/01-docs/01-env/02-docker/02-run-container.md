@@ -80,3 +80,12 @@ https://github.com/nodejs/docker-node
 
     # npm -v
     2.15.9
+
+
+<br/>
+
+    # apt-get -qq update
+
+    # apt-get install -y vim curl
+
+    # adduser developer

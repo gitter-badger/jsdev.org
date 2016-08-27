@@ -92,6 +92,14 @@ require ||
 postman || firebug || Scratchpad
 
 
+<br/>
+<hr/>
+
+
+## Browser Sync
+
+BrowserSync
+
 
 <br/>
 <hr/>
@@ -100,6 +108,7 @@ postman || firebug || Scratchpad
 ## App Server
 
 <a href="https://github.com/gcdeng/webpack-howto" rel="nofollow">Webpack howto</a>
+
 
 
 <br/>
