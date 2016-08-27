@@ -7,6 +7,9 @@ permalink: /env/docker/run-container/
 ### Run Docker Container (with node.js)
 
 
+<br/>
+Docker scpript:  
+
 https://github.com/nodejs/docker-node
 
 <br/>
@@ -52,7 +55,7 @@ https://github.com/nodejs/docker-node
 
 <br/>
 
-    $ docker build -t node_4_5_0_image .
+    $ docker build -t image_jessie_node_4_5_0 .
 
 <br/>
 
@@ -60,10 +63,15 @@ https://github.com/nodejs/docker-node
 
 <br/>
 
-    $ docker run -i -t -p 80:8080 -p 3000:3000 -p 9000:9000 -p 1337:1337 --name PROJECT_NAME -v /projects/dev/my_new_project_name:/projects node_4_5_0_image /bin/bash
+
+    $ docker run -it \
+    -p 80:8080 -p 3000:3000 -p 9000:9000 -p 1337:1337 \
+    --name PROJECT_NAME \
+    -v /projects/dev/my_new_project_name:/projects \
+    image_jessie_node_4_5_0 \
+    /bin/bash
 
 <br/>
-
 
     # node -v
     v4.5.0
