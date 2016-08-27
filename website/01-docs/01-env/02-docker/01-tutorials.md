@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Docker
-permalink: /env/docker/
+title: Docker Tutorials
+permalink: /env/docker/tutorials/
 ---
 
-### Docker
 
+### Docker Tutorials
 
 Best course what i've seen about docker for developers is **[Pluralsight] Docker for Web Developers**
 
@@ -19,7 +19,7 @@ And now I do not recommend to by this course. Try to find it on the internet for
 
 <br/><br/>
 
-### Docker Tutorials
+### Docker Tutorials from YouTube:
 
 
 <div align="center">
