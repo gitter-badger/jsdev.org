@@ -9,5 +9,5 @@ permalink: /top-10-books/
 
 
 <ul>
-    <li><a href="https://github.com/marley-nodejs/MEAN-Stack-and-MongoDB-Development-Techniques" rel="nofollow">MEAN-Stack-and-MongoDB-Development-Techniques</a></li>
+    <li><a href="https://github.com/marley-nodejs/getting-MEAN" rel="nofollow">Getting MEAN with Mongo, Express, Angular, and Node</a></li>
 </ul>
