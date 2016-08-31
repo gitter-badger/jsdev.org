@@ -15,6 +15,18 @@ permalink: /commercial/qlik/3.0/
 </div>
 
 
+<br/><br/>
+
+Community:  
+https://community.qlik.com/docs/DOC-7734
+
+Branch:  
+http://branch.qlik.com/#!/project
+
+Qlik Sense Extension Recipes  
+http://branch.qlik.com/#!/project/56728f52d1e497241ae69866
+
+
 <br/>
 
 ### How to programmatically get something by Qlik API
@@ -177,3 +189,17 @@ http://localhost:4848/sense/app/C%3A%5CUsers%5CMarley%5CDocuments%5CQlik%5CSense
 Selection:
 http://localhost:4848/sense/app/C%3A%5CUsers%5CMarley%5CDocuments%5CQlik%5CSense%5CApps%5CAuto.qvf/sheet/fPJrXZ/state/analysis/select/Year/2000  
 http://localhost:4848/sense/app/C%3A%5CUsers%5CMarley%5CDocuments%5CQlik%5CSense%5CApps%5CAuto.qvf/sheet/fPJrXZ/state/analysis/select/Car%20sales/100;120;200;300
+
+
+
+
+
+<br/>
+
+### Themes created by me on community:
+
+Qlick Sense 3.0 How to programmatically set selections by value?  
+https://community.qlik.com/thread/231031  
+
+I can't programmatically get selections, please assist  
+https://community.qlik.com/thread/230880

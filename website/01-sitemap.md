@@ -173,7 +173,7 @@ May be, later I will start use sonarqube for code analysis. (If it works for fre
 
 ## Commercial Solutions:  
 
-<a href="/commercial/qlik/">Qlik 3.0</a>
+<a href="/commercial/qlik/3.0/">Qlik 3.0</a>
 
 
 <br/>
