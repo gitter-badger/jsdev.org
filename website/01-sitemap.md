@@ -87,6 +87,15 @@ require ||
 <hr/>
 
 
+## JSON
+
+<a href="/json/">Json</a>
+
+
+<br/>
+<hr/>
+
+
 ## Useful browser plugins
 
 postman || firebug || Scratchpad
@@ -159,10 +168,22 @@ May be, later I will start use sonarqube for code analysis. (If it works for fre
 
 
 <br/>
+<hr/>
+
+
+## Commercial Solutions:  
+
+<a href="/commercial/qlik/">Qlik 3.0</a>
+
+
+<br/>
 <br/>
 <hr/>
 <br/>
 <br/>
+
+
+
 
 
 ## Other
