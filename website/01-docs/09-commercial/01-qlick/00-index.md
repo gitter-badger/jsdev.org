@@ -1,4 +1,4 @@
----
+
 layout: page
 title: Qlik 3.0
 permalink: /commercial/qlik/3.0/
@@ -173,6 +173,17 @@ https://help.qlik.com/en-US/sense-developer/3.0/Subsystems/APIs/Content/MashupAP
 	  });
 
 
+<br/>
+
+      var field = app.field('Year');
+
+	  $.each(field.getData().rows, function(key, value) {
+		 // console.log(value.qText);
+		 console.log(value.qNum);
+
+	  });
+
+
 
 
 <br/>
@@ -203,3 +214,21 @@ https://community.qlik.com/thread/231031
 
 I can't programmatically get selections, please assist  
 https://community.qlik.com/thread/230880
+
+
+
+<br/>
+
+### Themes created by me on community:
+
+
+    app.field('Year').select([0], false, false);
+    app.field('Year').selectMatch('1997', true);
+    app.field('Year').select([0, 1, 2], true, true);
+
+    app.field("Year").selectAll();
+    app.field('Year').clear();
+
+
+    app.field('Territory code').selectValues([{qText: 'CHN'},{qText: 'USA'}], true, true);
+    app.field('Year').selectValues([1997, 1998, 1999, 2000], true, true);
