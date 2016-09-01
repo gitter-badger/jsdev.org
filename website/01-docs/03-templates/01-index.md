@@ -34,6 +34,14 @@ https://github.com/ryanoasis/nerd-fonts
     http://www.99lime.com/
 
 
+
+    <br/>
+
+### Learn How to Create an Animated Bootstrap Template with HTM
+
+https://www.youtube.com/watch?v=2dw8xO-kvtM
+
+
 <br/>
 
 ### Learn How to Build a Business Theme Using Bootstrap

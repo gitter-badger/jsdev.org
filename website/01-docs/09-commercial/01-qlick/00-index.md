@@ -40,7 +40,7 @@ http://branch.qlik.com/#!/project/56728f52d1e497241ae69866
         $.each(list, function(key, value) {
             str +=  value.qDocName + '('+ value.qDocId + ') ';
         });
-        alert(str);
+        console.log(str);
     });
 
 
@@ -63,7 +63,7 @@ http://branch.qlik.com/#!/project/56728f52d1e497241ae69866
 	app.getList("MeasureList", function(reply){
 		var str = "";
 		$.each(reply.qMeasureList.qItems, function(key, value) {
-		console.log(value.qData.title);
+		          console.log(value.qData.title);
 		});
 	});
 
@@ -74,7 +74,7 @@ http://branch.qlik.com/#!/project/56728f52d1e497241ae69866
 	app.getList("DimensionList", function(reply){
 		var str = "";
 		$.each(reply.qDimensionList.qItems, function(key, value) {
-		console.log(value.qData.title);
+		          console.log(value.qData.title);
 		});
 	});
 
