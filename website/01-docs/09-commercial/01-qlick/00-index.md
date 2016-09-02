@@ -27,6 +27,14 @@ Qlik Sense Extension Recipes
 http://branch.qlik.com/#!/project/56728f52d1e497241ae69866
 
 
+Tutorials:  
+http://qliksite.io/tutorials/qliksense-visualization-extensions/part-00/00-toc/#
+
+
+Qliksense Extension Tutorial:  
+https://github.com/stefanwalther/qliksense-extension-tutorial
+https://www.npmjs.com/package/qliksense-extension-tutorial
+
 <br/>
 
 ### How to programmatically get something by Qlik API
