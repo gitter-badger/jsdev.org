@@ -39,6 +39,8 @@ https://www.npmjs.com/package/qliksense-extension-tutorial
 
 ### How to programmatically get something by Qlik API
 
+    app = qlik.currApp();
+
 
 **AppList**
 
@@ -51,6 +53,12 @@ https://www.npmjs.com/package/qliksense-extension-tutorial
         console.log(str);
     });
 
+
+
+<br/><br/>
+
+
+    var app = qlik.currApp();
 
 
 **FieldList**
