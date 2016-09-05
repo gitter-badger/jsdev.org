@@ -48,9 +48,10 @@ Getting MEAN with Mongo, Express, Angular, and Node
 
 ### Next
 
-I'm planning to complete next video courses (to remember):
+I'm planning to complete next video courses (just to remember):
 
 <ul>
+    <li>[Lynda.com / Alex Zanfir] Test-Driven Development with Node.js [2015, ENG]</li>
     <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started" rel="nofollow">Angular 2: Getting Started</a></li>
     <li>Learn ExpressJs building 10 projects</li>
     <li>Learn MeteorJS By Building 10 Real World Projects</li>

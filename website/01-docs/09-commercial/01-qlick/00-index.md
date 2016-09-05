@@ -1,4 +1,4 @@
-
+---
 layout: page
 title: Qlik 3.0
 permalink: /commercial/qlik/3.0/
