@@ -24,7 +24,7 @@ permalink: /top-10-video-courses/
 
 ___
 
-But stupid bitch Kelly Manley From PiracySolution, blocked my repos what I typed by myself.  
+Stupid bitch Kelly Manley From PiracySolution, blocked my repos what I typed by myself.  
 https://bitbucket.org/marley-nodejs/kelly-manley-from-piracysolution-stupid-bitch
 
 And now I do not recommend to by this course. Try to find it on the internet for free. It simply.
