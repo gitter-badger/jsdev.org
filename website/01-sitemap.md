@@ -65,6 +65,7 @@ grunt || <a href="/tasks-runner/gulp/">gulp</a>
 <a href="/frontend/angular/">Angular</a> ||
 <a href="/frontend/react/">React</a> ||
 <a href="/frontend/meteor/">Meteor</a> ||
+<a href="/frontend/ractive/">Ractive</a> ||
 Ember ||
 backbone ||
 knockout ||
