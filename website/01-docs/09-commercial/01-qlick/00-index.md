@@ -17,21 +17,21 @@ permalink: /commercial/qlik/3.0/
 
 <br/><br/>
 
-Community:  
+<strong>Community:</strong>  
 https://community.qlik.com/docs/DOC-7734
 
-Branch:  
+<strong>Branch:</strong>  
 http://branch.qlik.com/#!/project
 
-Qlik Sense Extension Recipes  
+<strong>Qlik Sense Extension Recipes</strong>  
 http://branch.qlik.com/#!/project/56728f52d1e497241ae69866
 
 
-Tutorials:  
+<strong>Tutorials:</strong>  
 http://qliksite.io/tutorials/qliksense-visualization-extensions/part-00/00-toc/#
 
 
-Qliksense Extension Tutorial:  
+<strong>Qliksense Extension Tutorial:</strong>  
 https://github.com/stefanwalther/qliksense-extension-tutorial
 https://www.npmjs.com/package/qliksense-extension-tutorial
 
@@ -163,7 +163,6 @@ https://help.qlik.com/en-US/sense-developer/3.0/Subsystems/APIs/Content/MashupAP
 ### Some other examples
 
 
-
 	var field = app.field('Year');
 
         console.log(field.getData());
@@ -211,8 +210,6 @@ http://localhost:4848/sense/app/C%3A%5CUsers%5CMarley%5CDocuments%5CQlik%5CSense
 
 
 
-
-
 <br/>
 
 ### Themes created by me on community:
@@ -227,7 +224,7 @@ https://community.qlik.com/thread/230880
 
 <br/>
 
-### Themes created by me on community:
+### Working Examples with selections:
 
 
     app.field('Year').select([0], false, false);
