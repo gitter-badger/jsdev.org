@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Qlik 3.0
+title: Qlik Sense 3.0
 permalink: /commercial/qlik/3.0/
 ---
 
 
-### Qlik 3.0
+### Qlik Sense 3.0
 
+
+<strong>Presentation:</strong>
 
 <div align="center">
 
@@ -35,170 +37,6 @@ http://qliksite.io/tutorials/qliksense-visualization-extensions/part-00/00-toc/#
 https://github.com/stefanwalther/qliksense-extension-tutorial
 https://www.npmjs.com/package/qliksense-extension-tutorial
 
-<br/>
-
-### How to programmatically get something by Qlik API
-
-    app = qlik.currApp();
-
-
-**AppList**
-
-
-    qlik.getAppList(function(list){
-        var str = "";
-        $.each(list, function(key, value) {
-            str +=  value.qDocName + '('+ value.qDocId + ') ';
-        });
-        console.log(str);
-    });
-
-
-
-<br/><br/>
-
-
-    var app = qlik.currApp();
-
-
-**FieldList**
-
-
-    app.getList("FieldList", function(reply){
-    	var str = "";
-    	$.each(reply.qFieldList.qItems, function(key, value) {
-    		str +=  value.qName + ' \n';
-    	});
-    	console.log(str);
-    });
-
-
-**MeasureList**
-
-
-	app.getList("MeasureList", function(reply){
-		var str = "";
-		$.each(reply.qMeasureList.qItems, function(key, value) {
-		          console.log(value.qData.title);
-		});
-	});
-
-
-**DimensionList**
-
-
-	app.getList("DimensionList", function(reply){
-		var str = "";
-		$.each(reply.qDimensionList.qItems, function(key, value) {
-		          console.log(value.qData.title);
-		});
-	});
-
-
-
-**BookmarkList**
-
-	app.getList("BookmarkList", function(reply){
-
-	// console.log(reply);
-
-		var str = "";
-		$.each(reply.qBookmarkList.qItems, function(key, value) {
-			str +=  value.qData.title + ' ';
-		});
-		// alert(str);
-		console.log(str);
-	});
-
-
-**SelectionObject**
-
-
-	app.getList("SelectionObject", function(reply){
-				var str = "";
-				$.each(reply.qSelectionObject.qSelections, function(key, value) {
-					console.log(value);
-				});
-
-	});
-
-
-
-<br/>
-<br/>
-
-https://help.qlik.com/en-US/sense-developer/3.0/Subsystems/APIs/Content/MashupAPI/Methods/getList-method.htm
-
-
-<br/>
-<br/>
-
-<br/>
-
-### My Starting script for development extensions
-
-
-    define( [
-      'qlik'
-    ],
-
-    function (qlik) {
-    	'use strict';
-
-
-      function myFunction(){
-    	var app = qlik.currApp();
-    }
-
-
-    	return {
-
-    		paint: function ($element) {
-
-    			myFunction();
-
-    			return qlik.Promise.resolve();
-    		}
-    	};
-
-    } );
-
-
-
-<br/>
-
-
-### Some other examples
-
-
-	var field = app.field('Year');
-
-        console.log(field.getData());
-
-	  $.each(field.getData(), function(key, value) {
-		  console.log(key, value);
-	  });
-
-
-<br/>
-
-
-	  $.each(field.getData().rows, function(key, value) {
-		 console.log(value.qText);
-	  });
-
-
-<br/>
-
-      var field = app.field('Year');
-
-	  $.each(field.getData().rows, function(key, value) {
-		 // console.log(value.qText);
-		 console.log(value.qNum);
-
-	  });
-
-
 
 
 <br/>
@@ -220,7 +58,7 @@ http://localhost:4848/sense/app/C%3A%5CUsers%5CMarley%5CDocuments%5CQlik%5CSense
 
 <br/>
 
-### Themes created by me on community:
+### Discussions created by me on community:
 
 Qlick Sense 3.0 How to programmatically set selections by value?  
 https://community.qlik.com/thread/231031  
@@ -230,18 +68,12 @@ https://community.qlik.com/thread/230880
 
 
 
-<br/>
 
-### Working Examples with selections:
+<br/><br/>
 
+### Other:
 
-    app.field('Year').select([0], false, false);
-    app.field('Year').selectMatch('1997', true);
-    app.field('Year').select([0, 1, 2], true, true);
-
-    app.field("Year").selectAll();
-    app.field('Year').clear();
-
-
-    app.field('Territory code').selectValues([{qText: 'CHN'},{qText: 'USA'}], true, true);
-    app.field('Year').selectValues([1997, 1998, 1999, 2000], true, true);
+<a href="/commercial/qlik/3.0/get-data-by-api/">How to programmatically get something by Qlik API</a>
+<a href="/commercial/qlik/3.0/working-with-selections-programmatically/">Working Examples with selections</a>
+<a href="/commercial/qlik/3.0/working-with-field-programmatically/">Working with field programmatically</a>
+<a href="/commercial/qlik/3.0/my-statup-template-for-extensions-development/">My startup template for extensions development</a>
