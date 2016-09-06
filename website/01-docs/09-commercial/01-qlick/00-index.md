@@ -73,7 +73,7 @@ https://community.qlik.com/thread/230880
 
 ### Other:
 
-<a href="/commercial/qlik/3.0/get-data-by-api/">How to programmatically get something by Qlik API</a>
-<a href="/commercial/qlik/3.0/working-with-selections-programmatically/">Working Examples with selections</a>
-<a href="/commercial/qlik/3.0/working-with-field-programmatically/">Working with field programmatically</a>
-<a href="/commercial/qlik/3.0/my-statup-template-for-extensions-development/">My startup template for extensions development</a>
+<a href="/commercial/qlik/3.0/get-data-by-api/">How to programmatically get something by Qlik API</a>  
+<a href="/commercial/qlik/3.0/working-with-selections-programmatically/">Working Examples with selections</a>  
+<a href="/commercial/qlik/3.0/working-with-field-programmatically/">Working with field programmatically</a>  
+<a href="/commercial/qlik/3.0/my-statup-template-for-extensions-development/">My startup template for extensions development</a>  
