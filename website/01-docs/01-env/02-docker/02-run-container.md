@@ -55,19 +55,24 @@ https://github.com/nodejs/docker-node
 
 <br/>
 
+
     $ docker build -t image_jessie_node_4_5_0 .
 
 <br/>
 
-    $ mkdir -p /projects/dev/my_new_project_name
+    $ project_name=my_project
+    
+<br/>
+
+    $ mkdir -p /projects/dev/${project_name}
 
 <br/>
 
 
     $ docker run -it \
-    -p 80:8080 -p 3000:3000 -p 9000:9000 -p 1337:1337 \
-    --name PROJECT_NAME \
-    -v /projects/dev/my_new_project_name:/projects \
+    -p 80:8080 -p 1337:1337 -p 3000:3000 -p 4000:4000 -p 5000:5000 -p 6000:6000 -p 7000:7000 -p 8000:8000 -p 9000:9000 \
+    --name ${project_name} \
+    -v /projects/dev/${project_name}:/projects \
     image_jessie_node_4_5_0 \
     /bin/bash
 
