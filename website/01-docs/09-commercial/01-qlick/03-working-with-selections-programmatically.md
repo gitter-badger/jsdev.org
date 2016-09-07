@@ -8,6 +8,13 @@ permalink: /commercial/qlik/3.0/working-with-selections-programmatically/
 ### [Qlik Sense 3.0] Working Examples with selections:
 
 
+    var fieldName = "Year";
+    var field = app.field(fieldName);
+
+    field.selectAll();
+
+<br/>
+
     app.field('Year').select([0], false, false);
     app.field('Year').selectMatch('1997', true);
     app.field('Year').select([0, 1, 2], true, true);

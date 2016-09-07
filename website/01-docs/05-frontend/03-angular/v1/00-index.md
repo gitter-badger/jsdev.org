@@ -1,10 +1,15 @@
 ---
 layout: page
 title: Angular.js
-permalink: /frontend/angular/1/
+permalink: /frontend/angular/v1/
 ---
 
 ### Angular.js
+
+
+### Introduction to Angular.js in 50 Examples
+https://www.youtube.com/watch?v=TRrL5j3MIvo
+
 
 <br/>
 
