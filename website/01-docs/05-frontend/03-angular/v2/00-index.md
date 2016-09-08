@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Angular.js 2
-permalink: /frontend/angular/2/
+permalink: /frontend/angular/v2/
 ---
 
 ### Angular.js 2
