@@ -9,8 +9,8 @@ permalink: /top-10-video-courses/
 
 
 <ul>
-    <li><a href="https://bitbucket.org/marley-nodejs/docker-for-web-developers/">[Pluralsight] Docker for Web Developers</a></li>
-    <li><a href="https://bitbucket.org/marley-nodejs/javascript-build-automation-with-gulp.js/">[Pluralsight] JavaScript Build Automation With Gulp.js</a></li>
+    <li><a href="https://bitbucket.org/marley-nodejs/docker-for-web-developers/">Docker for Web Developers</a></li>
+    <li><a href="https://bitbucket.org/marley-nodejs/javascript-build-automation-with-gulp.js/">JavaScript Build Automation With Gulp.js</a></li>
     <li><a href="https://github.com/marley-nodejs/Learn-Nodejs-by-building-10-projects">[Eduonix] Learn Nodejs by building 10 projects [2015, ENG]</a></li>
     <li><a href="https://github.com/marley-react/ReactJS-and-Flux-Learn-By-Building-10-Projects">[Eduonix] ReactJS and Flux: Learn By Building 10 Projects [ENG, 2016]</a></li>
     <li><a href="https://github.com/marley-angular/Learn-Angular.js-by-building-10-Projects">[Eduonix] Projects in AngularJS - Learn Angular.js by building 10 Projects [ENG, 2015]</a></li>
