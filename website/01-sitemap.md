@@ -177,6 +177,15 @@ Heroku | Amazon (works bad with Express applications) | Digital Ocean.
 May be, later I will start use sonarqube for code analysis. (If it works for free for js code. For java works)
 
 
+
+<br/>
+<hr/>
+
+
+## Mobile Development ???
+
+ionicframework
+
 <br/>
 <hr/>
 
