@@ -11,6 +11,7 @@ permalink: /frontend/angular/v1/
 https://www.youtube.com/watch?v=TRrL5j3MIvo
 
 
+
 <br/>
 
 ### AngularJS Line of Business Applications

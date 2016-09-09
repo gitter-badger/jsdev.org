@@ -9,7 +9,21 @@ permalink: /frontend/angular/v2/
 <br/><br/>
 
 
-Angular 2 Github Application - Freestyle Coding [1]
+
+### Angular 2 Introduction with JavaScript/ES5 - Part 1: Writing a Component
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/HTFZPF6iixA?list=PLgGUMhSgtxJyIQ4vI3BzlCzZLHL79Ew6p" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+<br/>
+
+
+### Angular 2 Github Application - Freestyle Coding [1]  
+
 https://www.youtube.com/watch?v=u83MLQ1VsKI
 
 
