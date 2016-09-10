@@ -1,10 +1,10 @@
 ---
 layout: page
-title: JavaScript Development
+title: JavaScript Development with modern Technologies
 permalink: /
 ---
 
-# JavaScript Development
+# JavaScript Development with modern Technologies
 
 <br/>
 
