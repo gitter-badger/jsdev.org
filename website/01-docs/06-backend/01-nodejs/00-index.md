@@ -60,29 +60,31 @@ https://www.youtube.com/playlist?list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh
 
 <br/>
 
-    We at Codeforgeek have covered almost every aspects of Node.js development. Starting from Setting up the project to deployment using automated tools.
+We at Codeforgeek have covered almost every aspects of Node.js development. Starting from Setting up the project to deployment using automated tools.
 
-    In this email, we wanted to list down popular node.js post which is considered to be best by our audience. Let us know if you like them.
+In this email, we wanted to list down popular node.js post which is considered to be best by our audience. Let us know if you like them.
 
-    Here is the list.
+Here is the list.
 
-    Node.js and MySQL tutorial. https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/
-    File uploads using Node.js. https://codeforgeek.com/2014/11/file-uploads-using-node-js/
-    Handle get and post request in Express. https://codeforgeek.com/2014/09/handle-get-post-request-express-4/
-    Render HTML in ExpressJS https://codeforgeek.com/2015/01/render-html-file-expressjs/
-    Manage Session using Node.js and Express https://codeforgeek.com/2014/09/manage-session-using-node-js-express-4/
-    Continuous integration and deployment using Jenkins and Node.js https://codeforgeek.com/2016/04/continuous-integration-deployment-jenkins-node-js/
-    Real-time notification system using Socket.io and Node.js https://codeforgeek.com/2015/09/real-time-notification-system-using-socket-io/
-    Node and SQLite tutorial https://codeforgeek.com/2014/07/node-sqlite-tutorial/
-    Using Redis to handle Session in Node.js https://codeforgeek.com/2015/07/using-redis-to-handle-session-in-node-js/
-    How to send Email using Node.js https://codeforgeek.com/2014/07/send-e-mail-node-js/
-    Building REST API using Nodejs https://codeforgeek.com/2015/03/restful-api-node-and-express-4/
-    Real-time newsfeed using Node and Socket https://codeforgeek.com/2015/03/real-time-app-socket-io/
-    Multiple file upload using Nodejs https://codeforgeek.com/2016/01/multiple-file-upload-node-js/
-    Test API using Nodejs https://codeforgeek.com/2015/07/unit-testing-nodejs-application-using-mocha/
-    Express and Nodejs tutorial for beginners https://codeforgeek.com/2014/06/express-nodejs-tutorial/
+<a href="https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/" rel="nofollow">Node.js and MySQL tutorial</a>.  
+<a href="https://codeforgeek.com/2014/11/file-uploads-using-node-js/" rel="nofollow">File uploads using Node.js</a>.  
+<a href="https://codeforgeek.com/2014/09/handle-get-post-request-express-4/" rel="nofollow">Handle get and post request in Express</a>.  
+<a href="https://codeforgeek.com/2015/01/render-html-file-expressjs/" rel="nofollow">Render HTML in ExpressJS</a>.  
+<a href="https://codeforgeek.com/2014/09/manage-session-using-node-js-express-4/" rel="nofollow">Manage Session using Node.js and Express</a>.  
+<a href="https://codeforgeek.com/2016/04/continuous-integration-deployment-jenkins-node-js/" rel="nofollow">Continuous integration and deployment using Jenkins and Node.js</a>.  
+<a href="https://codeforgeek.com/2015/09/real-time-notification-system-using-socket-io/" rel="nofollow">Real-time notification system using Socket.io and Node.js</a>.  
+<a href="https://codeforgeek.com/2014/07/node-sqlite-tutorial/" rel="nofollow">Node and SQLite tutorial</a>.  
+<a href="https://codeforgeek.com/2015/07/using-redis-to-handle-session-in-node-js/" rel="nofollow">Using Redis to handle Session in Node.js</a>.  
+<a href="https://codeforgeek.com/2014/07/send-e-mail-node-js/" rel="nofollow">How to send Email using Node.js</a>.  
+<a href="https://codeforgeek.com/2015/03/restful-api-node-and-express-4/" rel="nofollow">Building REST API using Nodejs</a>.  
+<a href="https://codeforgeek.com/2015/03/real-time-app-socket-io/" rel="nofollow">Real-time newsfeed using Node and Socket</a>.  
+<a href="https://codeforgeek.com/2016/01/multiple-file-upload-node-js/" rel="nofollow">Multiple file upload using Nodejs</a>.  
+<a href="https://codeforgeek.com/2015/07/unit-testing-nodejs-application-using-mocha/" rel="nofollow">Test API using Nodejs</a>.  
+<a href="https://codeforgeek.com/2014/06/express-nodejs-tutorial/" rel="nofollow">Express and Nodejs tutorial for beginners</a>.  
 
 
-    The post is sorted by views count by Google analytics hence they are not in order.
 
-    Save the email or bookmark those URL's, I am sure it's going to help you a lot.
+
+The post is sorted by views count by Google analytics hence they are not in order.
+
+Save the email or bookmark those URL's, I am sure it's going to help you a lot.
