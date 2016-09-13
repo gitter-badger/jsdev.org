@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Books
+title: Books for study JavaScript
 permalink: /books/
 ---
+
+# Books for study JavaScript
 
 ### The JavaScript Encyclopedia  
 http://www.crockford.com/javascript/encyclopedia/

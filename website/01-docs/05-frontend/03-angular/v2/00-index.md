@@ -10,6 +10,16 @@ permalink: /frontend/angular/v2/
 
 
 
+### Frontend testing (Angular2)
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wqEeYee47NQ" frameborder="0" allowfullscreen></iframe>
+    
+</div>
+
+<br/>
+
 ### Angular 2 Introduction with JavaScript/ES5 - Part 1: Writing a Component
 
 <div align="center">

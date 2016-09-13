@@ -10,14 +10,13 @@ permalink: /env/docker/run-container/
 <br/>
 Docker scpript:  
 
-https://github.com/nodejs/docker-node
+https://github.com/nodejs/docker-node/blob/master/4.5/Dockerfile
 
 <br/>
 
     $ cd /tmp/
 
 <br/>
-
 
     $ vi Dockerfile
 
@@ -61,7 +60,11 @@ https://github.com/nodejs/docker-node
 <br/>
 
     $ project_name=my_project
-    
+
+<br/>
+
+    $ echo ${project_name}
+
 <br/>
 
     $ mkdir -p /projects/dev/${project_name}
