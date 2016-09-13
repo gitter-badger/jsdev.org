@@ -8,7 +8,7 @@ permalink: /
 
 <br/>
 
-That is absolutely new website about javascript development.
+This is absolutely new website about javascript development with frameworks, docker, linux etc. 
 
 
 <br/>
