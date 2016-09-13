@@ -14,7 +14,7 @@ Marley opinion!
 <br/>
 
 <ul>
-    <li><a href="https://bitbucket.org/marley-nodejs/docker-for-web-developers/"><strong>Docker for Web Developers</a> (Everyone should see)</strong></li>
+    <li><a href="https://bitbucket.org/marley-nodejs/docker-for-web-developers/"><strong>Docker for Web Developers</strong></a> (Everyone should see)</li>
     <li><a href="https://bitbucket.org/marley-nodejs/javascript-build-automation-with-gulp.js/"><strong>JavaScript Build Automation With Gulp.js</strong></a> (Everyone should see)</li>
     <li><a href="https://github.com/marley-nodejs/Learn-Nodejs-by-building-10-projects">[Eduonix] Learn Nodejs by building 10 projects [2015, ENG]</a></li>
     <li><a href="https://github.com/marley-react/ReactJS-and-Flux-Learn-By-Building-10-Projects">[Eduonix] ReactJS and Flux: Learn By Building 10 Projects [ENG, 2016]</a></li>
