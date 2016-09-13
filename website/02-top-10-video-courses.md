@@ -5,13 +5,17 @@ permalink: /top-10-video-courses/
 ---
 
 
-# Top 10 Video Courses for javascript (frameworks) development
+# Top 10 Video Courses for javascript development by Frameworks
+
+<br/>
+
+Marley opinion!
 
 <br/>
 
 <ul>
-    <li><a href="https://bitbucket.org/marley-nodejs/docker-for-web-developers/">Docker for Web Developers</a></li>
-    <li><a href="https://bitbucket.org/marley-nodejs/javascript-build-automation-with-gulp.js/">JavaScript Build Automation With Gulp.js</a></li>
+    <li><a href="https://bitbucket.org/marley-nodejs/docker-for-web-developers/"><strong>Docker for Web Developers</a> (Everyone should see)</strong></li>
+    <li><a href="https://bitbucket.org/marley-nodejs/javascript-build-automation-with-gulp.js/"><strong>JavaScript Build Automation With Gulp.js</strong></a> (Everyone should see)</li>
     <li><a href="https://github.com/marley-nodejs/Learn-Nodejs-by-building-10-projects">[Eduonix] Learn Nodejs by building 10 projects [2015, ENG]</a></li>
     <li><a href="https://github.com/marley-react/ReactJS-and-Flux-Learn-By-Building-10-Projects">[Eduonix] ReactJS and Flux: Learn By Building 10 Projects [ENG, 2016]</a></li>
     <li><a href="https://github.com/marley-angular/Learn-Angular.js-by-building-10-Projects">[Eduonix] Projects in AngularJS - Learn Angular.js by building 10 Projects [ENG, 2015]</a></li>
