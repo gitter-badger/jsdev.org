@@ -37,11 +37,7 @@ Now I'm working on position Oracle ADF Developer (That is a Java Framework with 
 
 ### Currently
 
-Now I'm working on video course by Lynda
-
-<a href="https://github.com/marley-nodejs/MEAN-Stack-and-MongoDB-Development-Techniques" rel="nofollow">MEAN-Stack-and-MongoDB-Development-Techniques</a>
-
-And I'm reading book  
+Now I'm reading book:  
 Getting MEAN with Mongo, Express, Angular, and Node
 
 
@@ -51,7 +47,6 @@ Getting MEAN with Mongo, Express, Angular, and Node
 I'm planning to complete next video courses (just to remember):
 
 <ul>
-    <li>[Lynda.com / Alex Zanfir] Test-Driven Development with Node.js [2015, ENG]</li>
     <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started" rel="nofollow">Angular 2: Getting Started</a></li>
     <li>Learn ExpressJs building 10 projects</li>
     <li>Learn MeteorJS By Building 10 Real World Projects</li>
@@ -75,7 +70,8 @@ https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-b
 
 <br/>
 
-To buy or not to buy. May be anyone share with me?
+To buy or not to buy.  
+May be anyone share with me?
 
 
 
