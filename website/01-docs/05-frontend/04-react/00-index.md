@@ -7,6 +7,19 @@ permalink: /frontend/react/
 ### React.js
 
 
+
+<br/>
+
+### Learn How to Setup a Development Environment for Node.js and React
+
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/LSHD94TJpW4" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
 <br/>
 
 ### [Eduonix] ReactJS and Flux: Learn By Building 10 Projects [ENG, 2016]

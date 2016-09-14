@@ -7,6 +7,17 @@ permalink: /frontend/angular/v1/
 ### Angular.js
 
 
+
+### [Java Brains] Thinking in Angular 1
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLqq-6Pq4lTTbWLgk2YspgXA_xORzD0Ax6" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+<br/>
+
 ### Introduction to Angular.js in 50 Examples
 https://www.youtube.com/watch?v=TRrL5j3MIvo
 
