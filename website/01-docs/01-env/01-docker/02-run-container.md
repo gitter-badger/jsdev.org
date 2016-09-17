@@ -75,7 +75,7 @@ https://github.com/nodejs/docker-node/blob/master/4.5/Dockerfile
     $ docker run -it \
     -p 80:8080 -p 1337:1337 -p 3000:3000 -p 4000:4000 -p 5000:5000 -p 6000:6000 -p 7000:7000 -p 8000:8000 -p 9000:9000 \
     --name ${project_name} \
-    -v /projects/dev/${project_name}:/projects \
+    -v /projects/dev/${project_name}:/project \
     image_jessie_node_4_5_0 \
     /bin/bash
 
@@ -97,3 +97,7 @@ https://github.com/nodejs/docker-node/blob/master/4.5/Dockerfile
     # apt-get install -y vim curl
 
     # adduser developer
+
+or without additional questions:
+
+    # adduser --disabled-password --gecos "" developer
