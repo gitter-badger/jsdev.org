@@ -8,7 +8,18 @@ permalink: /frontend/jquery/
 ### jQuery
 
 
-<br/><br/>
+<br/>
+
+### [Brad Traversy] jQuery Crash Course
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+<br/>
 
 ### Learn jQuery by making a Content Slider
 
@@ -20,7 +31,7 @@ permalink: /frontend/jquery/
 
 
 
-<br/><br/>
+<br/>
 
 ### Learn to Build a jQuery Mobile App from Scratch
 
@@ -30,7 +41,7 @@ permalink: /frontend/jquery/
 
 </div>
 
-<br/><br/>
+<br/>
 
 ### Learn how to create a responsive image gallery using jQuery
 
@@ -42,7 +53,7 @@ permalink: /frontend/jquery/
 
 
 
-<br/><br/>
+<br/>
 
 ### jQuery Essentials Tutorial Series
 
