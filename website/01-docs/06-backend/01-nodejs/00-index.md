@@ -26,6 +26,14 @@ permalink: /backend/nodejs/
 
 <br/>
 
+### Node.js Static Server in Minutes
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/Moy6QIpp7Zw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<br/>
+
 ### Node.js & PostgreSQL Recipe App
 https://www.youtube.com/playlist?list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW
 
