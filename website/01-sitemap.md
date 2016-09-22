@@ -12,7 +12,8 @@ permalink: /sitemap/
 
 ## Books:
 
-[Books](/books/)
+[Books](/books-for-free/)  
+[Video Courses](/video-courses-for-free/)
 
 
 <br/>

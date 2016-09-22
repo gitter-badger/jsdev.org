@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books for study JavaScript
-permalink: /books/
+permalink: /books-for-free/
 ---
 
 # Books for study JavaScript
