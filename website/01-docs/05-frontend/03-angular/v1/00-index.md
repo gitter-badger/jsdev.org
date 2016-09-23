@@ -32,7 +32,7 @@ https://github.com/marley-angularjs/Angular.js-Line-of-Business-Applications
 
 <br/><br/>
 
-[Egghead.IO] Angular Automation with Gulp [2016, ENG]
+### [Egghead.IO] Angular Automation with Gulp [2016, ENG
 
 <br/><br/>
 <br/><br/>
