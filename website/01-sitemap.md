@@ -191,6 +191,18 @@ ionicframework
 <hr/>
 
 
+<br/>
+<hr/>
+
+
+## Text Generator
+
+Lorem Ipsum
+
+<br/>
+<hr/>
+
+
 ## Commercial Solutions:  
 
 <a href="/commercial/qlik/3.0/">Qlik 3.0</a>
