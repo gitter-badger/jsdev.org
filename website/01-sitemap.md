@@ -50,6 +50,13 @@ grunt || <a href="/tasks-runner/gulp/">gulp</a>
 
 <br/>
 
+## Bower
+
+<a href="/bower/">bower</a>
+
+
+<br/>
+
 ## Java Script
 
 <a href="/frontend/js/">js</a> ||

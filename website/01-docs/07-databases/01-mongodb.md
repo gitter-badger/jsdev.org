@@ -61,14 +61,9 @@ https://github.com/marley-nodejs/Build-a-Real-Time-web-app-in-node.js-Angular.js
 **find().pretty():**
 
     > db.categories.find().pretty();
-    { "_id" : ObjectId("57e67735c08c6bee3d047803"), "name" : "Education" }
     {
     "_id" : ObjectId("57e67705c08c6bee3d047802"),
     "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce iaculis eu sem pellentesque rutrum. Nulla nec porttitor velit, in venenatis ante. Donec eget fringilla dolor.",
     "name" : "Technology"
     }
-    {
-    "_id" : ObjectId("57e67792c08c6bee3d047804"),
-    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce iaculis eu sem pellentesque rutrum. Nulla nec porttitor velit, in venenatis ante. Donec eget fringilla dolor.",
-    "name" : "Healthcare"
-    }
+    
