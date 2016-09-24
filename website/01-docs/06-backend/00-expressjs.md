@@ -35,6 +35,23 @@ permalink: /backend/expressjs/
     --hogan Changes the HTML template engine from Jade to Hogan.
 
 
+<br/><br/>
+
+
+**Modifying Express for MVC**
+
+<br/>
+
+<div align="center">
+    <img src="http://github.com/marley-nodejs/Getting-MEAN-with-Mongo-Express-Angular-and-Node/raw/master/img/step1-pic1.png?raw=true"></src>
+</div>
+
+https://github.com/marley-nodejs/Getting-MEAN-with-Mongo-Express-Angular-and-Node
+
+
+
+<br/>
+
 
 <br/><br/>
 

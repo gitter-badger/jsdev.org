@@ -71,6 +71,18 @@ https://www.youtube.com/playlist?list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh
 
 
 <br/>
+
+    $ npm update -g npm
+    $ npm update -g bower
+    $ npm update -g gulp
+
+<br/>
+
+    $ npm cache clean
+    $ bower cache clean
+
+
+<br/>
 <br/>
 
 ### 10 things you should do while running Node.js in production

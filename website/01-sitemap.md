@@ -118,7 +118,7 @@ postman || firebug || Scratchpad
 
 ## Browser Sync
 
-BrowserSync
+BrowserSync || LiveReload
 
 
 <br/>
@@ -148,7 +148,7 @@ BrowserSync
 
 ## Testing
 
-Mocha, Should, Selenium etc.
+Mocha, Should, Selenium, Karma, Jasmine etc.
 
 
 <br/>
