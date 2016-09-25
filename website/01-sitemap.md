@@ -22,9 +22,9 @@ permalink: /sitemap/
 
 <a href="/env/">Environment</a> <br/>
 
-Server::: coreos (actually not, but I want to start use this linux) -> docker -> ubuntu \| debian \| centos6 -> git -> nodejs -> mongodb  
+Server::: coreos (actually not, but I want to start use this linux) -> docker -> debian jessie -> git -> nodejs -> mongodb  
 
-Dev::: ubuntu -> docker with centos6 -> git on github \| bitbucket -> nodejs -> mongodb --> atom -> gulp
+Dev::: ubuntu -> docker with debian jessie -> git on github \| bitbucket -> nodejs -> mongodb --> atom -> gulp
 
 
 <br/>
@@ -53,6 +53,13 @@ grunt || <a href="/tasks-runner/gulp/">gulp</a>
 ## Bower
 
 <a href="/bower/">bower</a>
+
+
+<br/>
+
+## Check JS
+
+JSHint
 
 
 <br/>
@@ -190,7 +197,7 @@ May be, later I will start use sonarqube for code analysis. (If it works for fre
 <hr/>
 
 
-## Mobile Development ???
+## Mobile Development
 
 ionicframework
 
@@ -204,7 +211,8 @@ ionicframework
 
 ## Text Generator
 
-Lorem Ipsum
+<a href="http://www.lipsum.com" rel="nofollow">Lorem Ipsum</a>
+
 
 <br/>
 <hr/>
