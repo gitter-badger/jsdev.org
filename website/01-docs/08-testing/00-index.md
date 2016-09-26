@@ -19,7 +19,7 @@ Mocha, Should, Supertest, Chai, Sinon, Karma, Jasmine etc.
 
 <br/>
 
-### Tests Coverage
+### Test Coverage
 
 Istanbul:  
 https://github.com/gotwarlost/istanbul
