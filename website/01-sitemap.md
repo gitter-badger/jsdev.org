@@ -43,6 +43,13 @@ Dev::: ubuntu -> docker with debian jessie -> git on github \| bitbucket -> node
 
 <br/>
 
+## Text Generator
+
+<a href="http://www.lipsum.com" rel="nofollow">Lorem Ipsum</a>
+
+
+<br/>
+
 ## Tasks Runner
 
 grunt || <a href="/tasks-runner/gulp/">gulp</a>
@@ -200,19 +207,6 @@ May be, later I will start use sonarqube for code analysis. (If it works for fre
 ## Mobile Development
 
 ionicframework
-
-<br/>
-<hr/>
-
-
-<br/>
-<hr/>
-
-
-## Text Generator
-
-<a href="http://www.lipsum.com" rel="nofollow">Lorem Ipsum</a>
-
 
 <br/>
 <hr/>
