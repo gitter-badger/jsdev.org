@@ -162,7 +162,7 @@ BrowserSync || LiveReload
 
 ## Testing
 
-Mocha, Should, Selenium, Karma, Jasmine etc.
+<a href="/testing/">Testing</a>
 
 
 <br/>
