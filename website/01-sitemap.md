@@ -139,7 +139,7 @@ postman || firebug || Scratchpad
 
 ## Browser Sync
 
-BrowserSync || LiveReload
+<a href="https://github.com/BrowserSync/browser-sync" rel="nofollow">BrowserSync</a> || LiveReload
 
 
 <br/>
