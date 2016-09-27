@@ -47,32 +47,13 @@ Getting MEAN with Mongo, Express, Angular, and Node
 I'm planning to complete next video courses (just to remember):
 
 <ul>
+    <li><a href="https://github.com/marley-angular/Learn-Angular-2-Development-By-Building-12-Apps/" rel="nofollow">Learn Angular 2 Development By Building 12 Apps</a></li>
     <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started" rel="nofollow">Angular 2: Getting Started</a></li>
     <li>Learn ExpressJs building 10 projects</li>
     <li>Learn MeteorJS By Building 10 Real World Projects</li>
     <li>Projects in MongoDB Learn MongoDB Building Ten Projects</li>
     <li>[Frontend Masters] Rethinking Asynchronous JavaScript [2016, ENG]</li>
 </ul>
-
-
- <br/> <br/>
-
-Learn Angular 2 Development By Building 12 Apps - 10$ <br/>
-https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-building-10-apps
-
-<br/>
-
-<div align="center">
-
-<img src="http://storage1.static.itmages.ru/i/16/0816/h_1471383150_2791342_46d2c3b789.png">
-
-</div>
-
-<br/>
-
-To buy or not to buy.  
-May be anyone share with me?
-
 
 
 
