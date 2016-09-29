@@ -43,9 +43,16 @@ Dev::: ubuntu -> docker with debian jessie -> git on github \| bitbucket -> node
 
 <br/>
 
-## Text Generator
+## Dummy Text Generator
 
 <a href="http://www.lipsum.com" rel="nofollow">Lorem Ipsum</a>
+
+
+<br/>
+
+## CSS preprocessors
+
+less || sass || stylus
 
 
 <br/>
@@ -60,13 +67,6 @@ grunt || <a href="/tasks-runner/gulp/">gulp</a> || <a href="https://github.com/g
 ## Bower
 
 <a href="/bower/">bower</a>
-
-
-<br/>
-
-## Check JS
-
-JSHint
 
 
 <br/>
@@ -95,7 +95,6 @@ require ||
 <a href="/js/oracle-jet/">Oracle Jet</a>
 
 
-
 <br/>
 <hr/>
 
@@ -115,13 +114,7 @@ require ||
 <a href="/json/">Json</a>
 
 
-<br/>
-<hr/>
 
-
-## CSS preprocessors
-
-less || sass || stylus
 
 
 <br/>
@@ -174,17 +167,6 @@ D3.js || <a href="http://chartjs.org" rel="nofollow">chart.js</a>
 
 
 
-<br/>
-<hr/>
-
-
-## Continious Integration
-
-travis-ci | Jenkins
-
-<br/>
-<hr/>
-
 
 ## Cloud Services
 
@@ -196,14 +178,27 @@ Heroku | Amazon (works bad with Express applications) | Digital Ocean.
 <hr/>
 
 
+
 ## Code Quality
 
 May be, later I will start use sonarqube for code analysis. (If it works for free for js code. For java works)
 
+<br/>
 
+## Check JS
+
+JSHint
 
 <br/>
-<hr/>
+<br/>
+
+
+## Continious Integration
+
+travis-ci | Jenkins
+
+<br/>
+<br/>
 
 
 ## Mobile Development
