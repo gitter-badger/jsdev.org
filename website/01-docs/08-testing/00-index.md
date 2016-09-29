@@ -5,7 +5,9 @@ permalink: /testing/
 ---
 
 
-### Testing
+
+
+### Testing (unit or functional)
 
 Mocha, Should, Supertest, Chai, Sinon, Karma, Jasmine etc.
 
@@ -23,6 +25,14 @@ Mocha, Should, Supertest, Chai, Sinon, Karma, Jasmine etc.
 
 Istanbul:  
 https://github.com/gotwarlost/istanbul
+
+
+<br/>
+
+### Testing for AngularJS
+
+protractor (functional):  
+http://www.protractortest.org/#/
 
 
 <br/>
