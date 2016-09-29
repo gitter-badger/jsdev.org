@@ -168,9 +168,9 @@ postman || firebug || Scratchpad
 <hr/>
 
 
-## Graphs, Diagrams
+## Graphs, Charts, Diagrams
 
-D3.js
+D3.js || <a href="http://chartjs.org" rel="nofollow">chart.js</a>
 
 
 
@@ -180,7 +180,7 @@ D3.js
 
 ## Continious Integration
 
-travis-ci
+travis-ci | Jenkins
 
 <br/>
 <hr/>
@@ -220,12 +220,21 @@ ionicframework
 
 
 <br/>
-<br/>
 <hr/>
 <br/>
+
+## Projects:  
+
+<a href="/commercial/qlik/3.0/">Qlik 3.0</a>
+
+
 <br/>
+<hr/>
 
 
+## Buttons For Code Checks:  
+
+<a href="/buttons-code-checks/">Buttons For Code Checks</a>
 
 
 

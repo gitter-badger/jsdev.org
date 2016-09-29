@@ -11,11 +11,7 @@ permalink: /commercial/qlik/3.0/working-with-field-programmatically/
 	var fieldName = "Year";
 	var field = app.field(fieldName);
 
-	field.selectAll();
-
 <br/>
-
-     console.log(field.getData());
 
 
 	 var fieldData = field.getData();
@@ -38,7 +34,7 @@ permalink: /commercial/qlik/3.0/working-with-field-programmatically/
 
 
 
-	  // therefore
+	 // It Works
 
 	function getArrayWithMonth(promise, fieldName){
 
@@ -52,7 +48,6 @@ permalink: /commercial/qlik/3.0/working-with-field-programmatically/
 
 			 loc_selections = [];
 
-			 console.log("HERE1");
 			  $.each(app.field(fieldName).getData().rows, function(key, value) {
 
 				   // console.log(value.qText);
@@ -60,8 +55,6 @@ permalink: /commercial/qlik/3.0/working-with-field-programmatically/
 
 				   loc_selections.push({'monthName':value.qText, 'monthValue':value.qElemNumber});
 			  });
-
-			   console.log("HERE2");
 
 			   console.log("END");
 			   promise.resolve(loc_selections);
