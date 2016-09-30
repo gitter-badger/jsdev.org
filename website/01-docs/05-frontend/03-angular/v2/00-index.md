@@ -10,6 +10,19 @@ permalink: /frontend/angular/v2/
 
 
 
+### Angular 2 Auth0 Application
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/i_dHFvi1BJc" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+
+
+<br/>
+
 ### Frontend testing (Angular2)
 
 <div align="center">
