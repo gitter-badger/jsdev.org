@@ -7,20 +7,36 @@ permalink: /commercial/qlik/3.0/working-with-field-programmatically/
 
 ### [Qlik Sense 3.0] Working with field programmatically
 
+<br/>
 
-	var fieldName = "Year";
-	var field = app.field(fieldName);
+	var myApp = qlik.currApp();
 
 <br/>
 
+	var fieldName = "Месяц";
+	var myField = myApp.field(fieldName);
 
-	 var fieldData = field.getData();
+<br/>
 
-	 console.log(fieldData);
+	var myFieldData = myField.getData();
 
-	  $.each(field.getData(), function(key, value) {
-		  console.log(key, value);
-	  });
+<br/>
+
+	console.log(myFieldData);
+
+<br/>
+
+	$.each(myFieldData, function(key, value) {
+		console.log(key, value);
+	});
+
+
+I have trouble with receiving data.  
+
+http://stackoverflow.com/questions/39768658/how-to-receive-data-from-field-in-qlik-sense-3-0
+
+
+
 
 
 <br/>
@@ -28,7 +44,7 @@ permalink: /commercial/qlik/3.0/working-with-field-programmatically/
 
 	 // Without "app.getList" it not works
 
-	  $.each(field.getData().rows, function(key, value) {
+	  $.each(myField.getData().rows, function(key, value) {
 		 console.log(value.qText);
 	  });
 
