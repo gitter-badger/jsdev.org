@@ -7,20 +7,23 @@ permalink: /commercial/qlik/3.0/working-with-selections-programmatically/
 
 ### [Qlik Sense 3.0] Working Examples with selections:
 
+    var myApp = qlik.currApp();
 
     var fieldName = "Year";
-    var field = app.field(fieldName);
+    var field = myApp.field(fieldName);
+
+<br/>
 
     field.selectAll();
 
 <br/>
 
-    app.field('Year').select([0], false, false);
-    app.field('Year').selectMatch('1997', true);
-    app.field('Year').select([0, 1, 2], true, true);
+    myApp.field(fieldName).select([0], false, false);
+    myApp.field(fieldName).selectMatch('1997', true);
+    myApp.field(fieldName).select([0, 1, 2], true, true);
 
-    app.field("Year").selectAll();
-    app.field('Year').clear();
+    myApp.field(fieldName).selectAll();
+    myApp.field(fieldName).clear();
 
-    app.field('Territory code').selectValues([{qText: 'CHN'},{qText: 'USA'}], true, true);
-    app.field('Year').selectValues([1997, 1998, 1999, 2000], true, true);
+    myApp.field('Territory code').selectValues([{qText: 'CHN'},{qText: 'USA'}], false, false);
+    myApp.field(fieldName).selectValues([1997, 1998, 1999, 2000], true, true);
