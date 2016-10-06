@@ -10,5 +10,5 @@ permalink: /top-10-books/
 <br/>
 
 <ul>
-    <li><a href="https://github.com/marley-nodejs/getting-MEAN" rel="nofollow">Getting MEAN with Mongo, Express, Angular, and Node</a></li>
+    <li><a href="https://github.com/marley-nodejs/Getting-MEAN-with-Mongo-Express-Angular-and-Node" rel="nofollow">Getting MEAN with Mongo, Express, Angular, and Node</a></li>
 </ul>

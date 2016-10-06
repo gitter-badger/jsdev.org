@@ -38,11 +38,11 @@ https://github.com/marley-angularjs/Angular.js-Line-of-Business-Applications
 <br/><br/>
 
 <div align="center">
-    <img src="http://storage5.static.itmages.ru/i/16/0923/h_1474617848_3617585_f217f00d03.png"></img>
+    <img src="http://storage5.static.itmages.ru/i/16/0923/h_1474617848_3617585_f217f00d03.png" alt="presentation"></img>
 
     <br/><br/>
 
-    <img src="http://storage3.static.itmages.ru/i/16/0923/h_1474618108_4935986_bd8884bd71.png"></img>
+    <img src="http://storage3.static.itmages.ru/i/16/0923/h_1474618108_4935986_bd8884bd71.png" alt="presentation"></img>
 
 
 

@@ -43,7 +43,7 @@ permalink: /backend/expressjs/
 <br/>
 
 <div align="center">
-    <img src="http://github.com/marley-nodejs/Getting-MEAN-with-Mongo-Express-Angular-and-Node/raw/master/img/step1-pic1.png?raw=true"></src>
+    <img src="http://github.com/marley-nodejs/Getting-MEAN-with-Mongo-Express-Angular-and-Node/raw/master/img/step1-pic1.png?raw=true" alt="Modifying Express for MVC"></src>
 </div>
 
 https://github.com/marley-nodejs/Getting-MEAN-with-Mongo-Express-Angular-and-Node
@@ -74,7 +74,7 @@ Do you want to learn Express.js - robust nodejs web application framework ? If n
 But if you do, then here are 5 tutorials that can 100% help you to learn Express.js and at the end, you should be able to write your own application.
 
 <div align="center">
-    <img src="http://storage5.static.itmages.ru/i/16/0819/h_1471591838_7168298_d9c1902db9.png">
+    <img src="http://storage5.static.itmages.ru/i/16/0819/h_1471591838_7168298_d9c1902db9.png" alt="Email from Codeforgeek">
 </div>
 
 
