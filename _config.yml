@@ -11,4 +11,4 @@ gems:
   - jekyll-sitemap
 
 # analytics
-google: "UA-4894954-42"
+google_analytics: "UA-4894954-42"
