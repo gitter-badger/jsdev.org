@@ -1,5 +1,9 @@
 # [jsdev.org](http://jsdev.org) source codes
 
+
+[![Build Status](https://travis-ci.org/jsdev-org/jsdev.org.svg?branch=master)](https://travis-ci.org/jsdev-org/jsdev.org)
+
+
 To run jsdev.org on your local server, you can do next:
 
 **Install Docker**
