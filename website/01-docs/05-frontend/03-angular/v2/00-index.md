@@ -6,7 +6,21 @@ permalink: /frontend/angular/v2/
 
 ### Angular.js 2
 
-<br/><br/>
+
+Start new angular 2 project
+
+
+    $ cd ~
+    $ mkdir myAngular2Project
+    $ cd myAngular2Project/
+    $ git clone --depth=1 https://github.com/angular/quickstart .
+    $ npm install
+    $ npm start
+
+
+http://localhost:3000/
+
+<br/>
 
 
 
