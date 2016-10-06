@@ -40,6 +40,7 @@ Now I'm working on position Oracle ADF Developer (That is a Java Framework with 
 Now I'm reading book:  
 Getting MEAN with Mongo, Express, Angular, and Node
 
+And I'm watching video course: <a href="https://github.com/marley-angular/Learn-Angular-2-Development-By-Building-12-Apps/" rel="nofollow">Learn Angular 2 Development By Building 12 Apps</a>
 
 
 ### Next
@@ -47,7 +48,6 @@ Getting MEAN with Mongo, Express, Angular, and Node
 I'm planning to complete next video courses (just to remember):
 
 <ul>
-    <li><a href="https://github.com/marley-angular/Learn-Angular-2-Development-By-Building-12-Apps/" rel="nofollow">Learn Angular 2 Development By Building 12 Apps</a></li>
 
     <li><a href="https://www.youtube.com/watch?v=QPn5MHqyAO0" rel="nofollow">MEAN App From Scratch - MongoDB, Angular 2, Express, Node.js</a></li>    
 
