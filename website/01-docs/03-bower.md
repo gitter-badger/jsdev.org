@@ -30,5 +30,5 @@ permalink: /bower/
 <br/>
 
     {
-      "directory": "public/library"
+      "directory": "public/vendor"
     }
