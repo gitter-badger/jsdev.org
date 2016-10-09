@@ -65,6 +65,10 @@ or
     $ apm install jshint
     $ apm install inline-markdown-images
 
+
+inline-markdown-images
+
+
 ![inline-markdown-images](http://raw.githubusercontent.com/some-atom/inline-markdown-images/master/preview.gif)
 
 
@@ -109,6 +113,39 @@ or
     https://atom.io/packages/atom-bootstrap4
 
 
+
+<br/>
+
+### Installed by me packages
+
+    $ apm list --installed --bare
+    atom-beautify@0.29.7
+    atom-typescript@8.9.1
+    inline-markdown-images@1.0.0
+    jshint@1.8.5
+    linter@1.11.4
+    react@0.15.0
+
+
+<br/>
+
+list of all packages
+
+
+    $ apm list -ib | sed s/@.*//
+    atom-beautify
+    atom-typescript
+    inline-markdown-images
+    jshint
+    linter
+    react
+
+
+<br/>    
+
+the same, excluding disabled packages
+
+    $ apm list -ibd false | sed s/@.*//
 
 <br/>
 
@@ -215,3 +252,12 @@ or
     └── react@0.15.0
 
     └── (empty)
+
+
+
+$br/>
+
+*disable package (i didn't check it)*
+
+    $(apm list --installed --bare)
+    $ apm disable package_name
