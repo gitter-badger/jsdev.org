@@ -18,6 +18,21 @@ permalink: /sitemap/
 
 <br/>
 
+## Libs:
+
+<a href="http://markapp.io/" rel="nofollow">markapp</a>
+
+
+<br/>
+
+## A list of awesome ESLint configs, plugins, etc.:
+
+<a href="https://github.com/dustinspecker/awesome-eslint" rel="nofollow">Awesome ESLint</a>
+
+
+
+<br/>
+
 ## Environment:
 
 <a href="/env/">Environment</a> <br/>
