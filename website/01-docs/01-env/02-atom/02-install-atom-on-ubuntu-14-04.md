@@ -57,9 +57,17 @@ All file styles.less I replace on:
 
 Edit --> Preferences --> Install
 
-    autosave
-    Atom Beautify
-    jshint
+or
+
+
+    $ apm install autosave
+    $ apm install Atom Beautify
+    $ apm install jshint
+    $ apm install inline-markdown-images
+
+![inline-markdown-images](http://raw.githubusercontent.com/some-atom/inline-markdown-images/master/preview.gif)
+
+
 
 
 <br/><br/>
