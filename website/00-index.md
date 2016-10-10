@@ -49,7 +49,9 @@ I'm planning to complete next video courses (just to remember):
 
 <ul>
 
-    <li><a href="https://www.youtube.com/watch?v=QPn5MHqyAO0" rel="nofollow">MEAN App From Scratch - MongoDB, Angular 2, Express, Node.js</a></li>    
+    <li><a href="https://www.youtube.com/watch?v=viaF0hM8G94" rel="nofollow">ES6 Promises (with Angular 2) Explained</a></li>
+
+    <li><a href="https://www.youtube.com/watch?v=QPn5MHqyAO0" rel="nofollow">MEAN App From Scratch - MongoDB, Angular 2, Express, Node.js</a></li>
 
     <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started" rel="nofollow">Angular 2: Getting Started</a></li>
     <li>Learn ExpressJs building 10 projects</li>
