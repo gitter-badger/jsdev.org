@@ -20,9 +20,24 @@ Start new angular 2 project
 
 http://localhost:3000/
 
+
 <br/>
 
+### Angular 2 with Webpack Project Setup (Everyone should see)
 
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLgGUMhSgtxJyIQ4vI3BzlCzZLHL79Ew6p" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+https://gist.github.com/mirkonasato/5822686059d4ce4bdac83697ce7c89dc
+
+
+
+
+<br/>
 
 ### Angular 2 Auth0 Application
 

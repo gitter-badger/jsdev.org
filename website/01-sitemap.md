@@ -37,9 +37,9 @@ permalink: /sitemap/
 
 <a href="/env/">Environment</a> <br/>
 
-Server::: coreos (actually not, but I want to start use this linux) -> docker -> debian jessie -> git -> nodejs -> mongodb  
+Server::: coreos (actually not, but I want to start use this linux) -> docker -> debian jessie -> git -> webpack
 
-Dev::: ubuntu -> docker with debian jessie -> git on github \| bitbucket -> nodejs -> mongodb --> atom -> gulp
+Dev::: ubuntu -> docker with debian jessie -> git on github \| bitbucket -> nodejs -> webpack --> atom
 
 
 <br/>
