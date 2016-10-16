@@ -32,9 +32,7 @@ http://localhost:3000/
 </div>
 
 
-https://gist.github.com/mirkonasato/5822686059d4ce4bdac83697ce7c89dc
-
-
+https://github.com/marley-angular/Angular-2-with-Webpack-Project-Setup
 
 
 <br/>

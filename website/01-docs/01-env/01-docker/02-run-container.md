@@ -6,8 +6,12 @@ permalink: /env/docker/run-container/
 
 ### Run Docker Container (with node.js)
 
+<br/>
+
+### Step 1: Prepare Docker Image With Node.js
 
 <br/>
+
 Docker scpript:  
 
 https://github.com/nodejs/docker-node/blob/master/4.5/Dockerfile
@@ -57,7 +61,10 @@ https://github.com/nodejs/docker-node/blob/master/4.5/Dockerfile
 
     $ docker build -t image_jessie_node_4_5_0 .
 
+
 <br/>
+
+### Step 2: Create and Run Docker Container
 
     $ project_name=my_project
 
@@ -88,6 +95,15 @@ https://github.com/nodejs/docker-node/blob/master/4.5/Dockerfile
 
     # npm -v
     2.15.9
+
+<br/>
+
+    # npm install -g npm
+
+<br/>
+
+    # npm -v
+    3.10.8
 
 
 <br/>
