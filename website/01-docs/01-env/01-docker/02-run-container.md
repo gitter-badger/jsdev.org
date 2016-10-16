@@ -14,7 +14,8 @@ permalink: /env/docker/run-container/
 
 Docker scpript:  
 
-https://github.com/nodejs/docker-node/blob/master/4.5/Dockerfile
+<a href="https://github.com/nodejs/docker-node/blob/master/6.8/Dockerfile">here</a>
+
 
 <br/>
 
@@ -44,14 +45,15 @@ https://github.com/nodejs/docker-node/blob/master/4.5/Dockerfile
       done
 
     ENV NPM_CONFIG_LOGLEVEL info
-    ENV NODE_VERSION 4.5.0
+    ENV NODE_VERSION 6.8.1
 
     RUN curl -SLO "https://nodejs.org/dist/v$NODE_VERSION/node-v$NODE_VERSION-linux-x64.tar.xz" \
       && curl -SLO "https://nodejs.org/dist/v$NODE_VERSION/SHASUMS256.txt.asc" \
       && gpg --batch --decrypt --output SHASUMS256.txt SHASUMS256.txt.asc \
       && grep " node-v$NODE_VERSION-linux-x64.tar.xz\$" SHASUMS256.txt | sha256sum -c - \
       && tar -xJf "node-v$NODE_VERSION-linux-x64.tar.xz" -C /usr/local --strip-components=1 \
-      && rm "node-v$NODE_VERSION-linux-x64.tar.xz" SHASUMS256.txt.asc SHASUMS256.txt
+      && rm "node-v$NODE_VERSION-linux-x64.tar.xz" SHASUMS256.txt.asc SHASUMS256.txt \
+      && ln -s /usr/local/bin/node /usr/local/bin/nodejs
 
     CMD [ "node" ]
 
@@ -59,7 +61,7 @@ https://github.com/nodejs/docker-node/blob/master/4.5/Dockerfile
 <br/>
 
 
-    $ docker build -t image_jessie_node_4_5_0 .
+    $ docker build -t image_jessie_node_6_8_1 .
 
 
 <br/>
@@ -83,27 +85,19 @@ https://github.com/nodejs/docker-node/blob/master/4.5/Dockerfile
     -p 80:8080 -p 1337:1337 -p 3000:3000 -p 4000:4000 -p 5000:5000 -p 6000:6000 -p 7000:7000 -p 8000:8000 -p 9000:9000 \
     --name ${project_name} \
     -v /projects/dev/${project_name}:/project \
-    image_jessie_node_4_5_0 \
+    image_jessie_node_6_8_1 \
     /bin/bash
 
 <br/>
 
     # node -v
-    v4.5.0
-
-<br/>
-
-    # npm -v
-    2.15.9
-
-<br/>
-
-    # npm install -g npm
+    v6.8.1
 
 <br/>
 
     # npm -v
     3.10.8
+
 
 
 <br/>
