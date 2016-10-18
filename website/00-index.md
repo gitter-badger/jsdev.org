@@ -50,6 +50,7 @@ I'm planning to complete next video courses (just to remember):
 <ul>
 
     <li>[Udemy] The Complete React Web App Developer Course [2016, ENG]</li>
+    <li>[Udemy] The Complete Node.js Developer Course 2.0 [2016, ENG]</li>
     <li><a href="https://www.youtube.com/watch?v=viaF0hM8G94" rel="nofollow">ES6 Promises (with Angular 2) Explained</a></li>
 
     <li><a href="https://www.youtube.com/watch?v=QPn5MHqyAO0" rel="nofollow">MEAN App From Scratch - MongoDB, Angular 2, Express, Node.js</a></li>
