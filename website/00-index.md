@@ -50,10 +50,18 @@ I'm planning to complete next video courses (just to remember):
 <ul>
 
     <li>[Udemy] The Complete React Web App Developer Course [2016, ENG]</li>
-    <li>[Udemy] The Complete Node.js Developer Course 2.0 [2016, ENG]</li>
+    <li>[Udemy] The Complete Node.js Developer Course 2.0 [2016, ENG] (vids not found)</li>
+    <li><a href="https://www.udemy.com/angular-2-crash-course/" rel="nofollow">Angular 2 Crash Course with TypeScript</a> (vids not found)</li>
+
+    <li><a href="https://www.youtube.com/watch?v=tMEyrfjoWEs" rel="nofollow">AngularJS 2 and NodeJS: The Practical Guide to MEAN Stack 2.0</a></li>
+
     <li><a href="https://www.youtube.com/watch?v=viaF0hM8G94" rel="nofollow">ES6 Promises (with Angular 2) Explained</a></li>
 
-    <li><a href="https://www.youtube.com/watch?v=QPn5MHqyAO0" rel="nofollow">MEAN App From Scratch - MongoDB, Angular 2, Express, Node.js</a></li>
+    <li><a href="https://www.youtube.com/watch?v=PFP0oXNNveg" rel="nofollow">MEAN App From Scratch - MongoDB, Angular 2, Express, Node.js</a></li>
+
+    <li><a href="https://www.youtube.com/watch?v=ei7FsoXKPl0" rel="nofollow">RxJS Observables Crash Course</a></li>
+
+    <li><a href="https://www.youtube.com/watch?v=i_dHFvi1BJc" rel="nofollow">Angular 2 Auth0 Application</a></li>
 
     <li><a href="https://github.com/marley-angular/Angular-2-Getting-Started" rel="nofollow">Angular 2: Getting Started</a></li>
     <li>Learn ExpressJs building 10 projects</li>
