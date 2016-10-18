@@ -31,8 +31,22 @@ http://localhost:3000/
 
 </div>
 
+<br/>
 
 https://github.com/marley-angular/Angular-2-with-Webpack-Project-Setup
+
+
+
+<br/>
+
+### Learn Angular 2 (TypeScript) by building a simple YouTube player
+
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mH4TpdwZP4A" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
 
 
 <br/>

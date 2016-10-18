@@ -124,6 +124,16 @@ require ||
 <hr/>
 
 
+## Compile to JavaScript
+
+TypeScript (by Microsoft) || CoffeScpipt || Dart (by Google)
+
+
+
+<br/>
+<hr/>
+
+
 ## JSON
 
 <a href="/json/">Json</a>
