@@ -139,9 +139,6 @@ TypeScript (by Microsoft) || CoffeScpipt || Dart (by Google)
 <a href="/json/">Json</a>
 
 
-
-
-
 <br/>
 <hr/>
 
@@ -167,7 +164,7 @@ postman || firebug || Scratchpad
 
 ## DataBases
 
-<a href="//firebase.google.com" rel="nofollow">FireBase</a> (Google) ||
+<a href="https://firebase.google.com" rel="nofollow">FireBase</a> (Google) ||
 <a href="/databases/mongodb/">MongoDB</a> ||
 <a href="/databases/rethinkdb/">Rethinkdb</a>
 
@@ -182,7 +179,6 @@ postman || firebug || Scratchpad
 <a href="/testing/">Testing</a>
 
 
-
 <br/>
 <hr/>
 
@@ -192,7 +188,8 @@ postman || firebug || Scratchpad
 D3.js || <a href="http://chartjs.org" rel="nofollow">chart.js</a>
 
 
-
+<br/>
+<hr/>
 
 ## Cloud Services
 
