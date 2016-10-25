@@ -14,7 +14,7 @@ permalink: /env/docker/run-container/
 
 Docker scpript:  
 
-<a href="https://github.com/nodejs/docker-node/blob/master/6.8/Dockerfile">here</a>
+<a href="https://github.com/nodejs/docker-node/blob/master/6.9/Dockerfile">here</a>
 
 
 <br/>
