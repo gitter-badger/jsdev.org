@@ -6,6 +6,14 @@ permalink: /books-for-free/
 
 # Books for study JavaScript
 
+<br/>
+
+
+### The JavaScript Encyclopedia  
+http://www.crockford.com/javascript/encyclopedia/
+
+<br/>
+
 ### The JavaScript Encyclopedia  
 http://www.crockford.com/javascript/encyclopedia/
 
@@ -47,3 +55,33 @@ https://github.com/javascript-society/javascript-path
 
 ### You-Dont-Know-JS  
 https://github.com/getify/You-Dont-Know-JS
+
+
+
+<br/>
+
+### javascript_the_good_parts
+
+<a href="https://github.com/classicemi/ebooks/blob/master/javascript_the_good_parts.pdf">link</a>
+
+
+<br/>
+
+### Data Structures and Algorithms with JavaScript
+
+<a href="https://github.com/classicemi/ebooks/blob/master/Data%20Structures%20and%20Algorithms%20with%20JavaScript.pdf">link</a>
+
+
+
+<br/>
+
+### Functional JavaScript
+
+<a href="https://github.com/classicemi/ebooks/blob/master/Functional%20JavaScript.pdf">link</a>
+
+
+<br/>
+
+### JavaScript with Promises
+
+<a href="https://github.com/classicemi/ebooks/blob/master/JavaScript%20with%20Promises.pdf">link</a>
