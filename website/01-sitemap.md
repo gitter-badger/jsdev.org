@@ -23,13 +23,6 @@ permalink: /sitemap/
 <a href="http://markapp.io/" rel="nofollow">markapp</a>
 
 
-<br/>
-
-## A list of awesome ESLint configs, plugins, etc.:
-
-<a href="https://github.com/dustinspecker/awesome-eslint" rel="nofollow">Awesome ESLint</a>
-
-
 
 <br/>
 
@@ -212,49 +205,39 @@ May be, later I will start use sonarqube for code analysis. (If it works for fre
 
 JSHint
 
-<br/>
+
 <br/>
 
+## A list of awesome ESLint configs, plugins, etc.:
+
+<a href="https://github.com/dustinspecker/awesome-eslint" rel="nofollow">Awesome ESLint</a>
+
+<br/>
 
 ## Continious Integration
 
 travis-ci | Jenkins
 
 <br/>
-<br/>
-
 
 ## Mobile Development
 
 ionicframework
 
 <br/>
-<hr/>
-
 
 ## Commercial Solutions:  
 
 <a href="/commercial/qlik/3.0/">Qlik 3.0</a>
 
-
 <br/>
-<hr/>
-<br/>
-
-## Projects:  
-
-<a href="/commercial/qlik/3.0/">Qlik 3.0</a>
-
-
-<br/>
-<hr/>
-
 
 ## Buttons For Code Checks:  
 
 <a href="/buttons-code-checks/">Buttons For Code Checks</a>
 
 
+<br/>
 
 ## Other
 
