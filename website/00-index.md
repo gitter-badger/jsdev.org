@@ -48,6 +48,9 @@ And I'm watching video course: <a href="https://github.com/marley-angular/Learn-
 I'm planning to complete next video courses (just to remember):
 
 <ul>
+
+    <li><a href="https://github.com/marley-angular/ng2-camp-example" rel="nofollow">Using Redux with Angular 2 (AngularJS TO - July 2016)</a></li>
+
     <li><a href="https://www.youtube.com/watch?v=-3vvxn78MH4&list=PL55RiY5tL51rajp7Xr_zk-fCFtzdlGKUp&index=2" rel="nofollow">NodeJS / Express / MongoDB - Build a Shopping Cart - #1 Intro & Setup</a></li>
 
     <li><a href="https://www.youtube.com/watch?v=ei7FsoXKPl0" rel="nofollow">RxJS Observables Crash Course</a></li>
