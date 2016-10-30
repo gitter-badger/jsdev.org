@@ -24,8 +24,17 @@ Some Other Examples:
 https://github.com/marley-nodejs/Build-a-Real-Time-web-app-in-node.js-Angular.js-mongoDB
 
 
-<br/><br/>
+<br/>
 
+### Installation and Start in debian linux
+
+    # apt-get install -y mongodb
+
+    # mkdir -p /data/db/
+    # mongod
+
+
+<br/>
 
 ### Some Examples
 
@@ -34,12 +43,15 @@ https://github.com/marley-nodejs/Build-a-Real-Time-web-app-in-node.js-Angular.js
     > db.createCollection('articles');
     > db.createCollection('categories');
 
+
+**Insert Data:**  
+
     > db.categories.insert({name:"Technology"});
     > db.categories.insert({name:"Education"});
     > db.categories.insert({name:"Healthcare"});
     > db.categories.find();
 
-**Insert:**    
+<br/>
 
     > db.articles.insert({title:"Article One", category: "Technology", body: "This is the body", date: new Date()});
     > db.articles.insert({title:"Article Two", category: "Education", body: "This is the body", date: new Date()});
@@ -50,7 +62,7 @@ https://github.com/marley-nodejs/Build-a-Real-Time-web-app-in-node.js-Angular.js
 
 <br/>
 
-**Update:**
+**Update Data:**
 
     > use knowledgebase
     > db.categories.update({name:"Technology"}, {$set:{description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce iaculis eu sem pellentesque rutrum. Nulla nec porttitor velit, in venenatis ante. Donec eget fringilla dolor."}});
@@ -66,4 +78,3 @@ https://github.com/marley-nodejs/Build-a-Real-Time-web-app-in-node.js-Angular.js
     "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce iaculis eu sem pellentesque rutrum. Nulla nec porttitor velit, in venenatis ante. Donec eget fringilla dolor.",
     "name" : "Technology"
     }
-    

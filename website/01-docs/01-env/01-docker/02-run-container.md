@@ -111,3 +111,24 @@ Docker scpript:
 or without additional questions:
 
     # adduser --disabled-password --gecos "" developer
+
+
+
+<br/>
+
+### Most Important Docker Commands After Container Has Been Created
+
+    // show running containers
+    $ docker ps
+
+    // show all containers
+    $ docker ps -a
+
+    $ docker start <container_name>
+    $ docker attach <container_name>
+
+    // connect to docker container by additional terminal
+    $ docker exec -it <container_name> bash
+
+    // detach from container without stopping
+    CTRL + P + Q
