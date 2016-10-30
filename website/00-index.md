@@ -49,6 +49,12 @@ I'm planning to complete next video courses (just to remember):
 
 <ul>
 
+    <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51rLeDxRPlE6Hsnss3QDCCKc" rel="nofollow">Angular 2.0 Final - Getting Started</a></li>
+
+    <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_" rel="nofollow">ReactJS + Redux Basics</a></li>
+
+    <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS" rel="nofollow">ReactJS Basics</a></li>
+
     <li><a href="https://github.com/marley-angular/ng2-camp-example" rel="nofollow">Using Redux with Angular 2 (AngularJS TO - July 2016)</a></li>
 
     <li><a href="https://www.youtube.com/watch?v=-3vvxn78MH4&list=PL55RiY5tL51rajp7Xr_zk-fCFtzdlGKUp&index=2" rel="nofollow">NodeJS / Express / MongoDB - Build a Shopping Cart - #1 Intro & Setup</a></li>
