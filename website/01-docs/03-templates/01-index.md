@@ -20,7 +20,8 @@ http://themes.3rdwavemedia.com/
 <br/>
 
 ### Font  
-https://github.com/ryanoasis/nerd-fonts
+https://github.com/ryanoasis/nerd-fonts  
+https://github.com/FortAwesome/Font-Awesome
 
 
 <br/>
