@@ -42,12 +42,16 @@ Getting MEAN with Mongo, Express, Angular, and Node
 
 And I'm watching video course: <a href="https://github.com/marley-angular/Learn-Angular-2-Development-By-Building-12-Apps/" rel="nofollow">Learn Angular 2 Development By Building 12 Apps</a>
 
+And <a href="https://github.com/marley-nodejs/Express-MongoDB-Build-a-Shopping-Cart" rel="nofollow">[Mindspace, Youtube] NodeJS / Express / MongoDB - Build a Shopping Cart [ENG, 2016]</a>
+
 
 ### Next
 
 I'm planning to complete next video courses (just to remember):
 
 <ul>
+
+    <li><a href="https://www.youtube.com/watch?v=7MLXuG83Fsw" rel="nofollow">Intro To Memcached</a></li>
 
     <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51rLeDxRPlE6Hsnss3QDCCKc" rel="nofollow">Angular 2.0 Final - Getting Started</a></li>
 
