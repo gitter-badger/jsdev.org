@@ -178,7 +178,7 @@ postman || firebug || Scratchpad
 
 ## Graphs, Charts, Diagrams
 
-D3.js || <a href="http://chartjs.org" rel="nofollow">chart.js</a>
+D3.js || <a href="/charts/chartjs/">chart.js</a>
 
 
 <br/>
