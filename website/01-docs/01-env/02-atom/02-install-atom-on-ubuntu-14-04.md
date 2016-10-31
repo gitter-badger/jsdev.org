@@ -63,14 +63,6 @@ or
     $ apm install autosave
     $ apm install atom-beautify
     $ apm install jshint
-    $ apm install inline-markdown-images
-
-
-inline-markdown-images
-
-
-![inline-markdown-images](http://raw.githubusercontent.com/some-atom/inline-markdown-images/master/preview.gif)
-
 
 
 
@@ -255,9 +247,30 @@ the same, excluding disabled packages
 
 
 
-$br/>
+<br/>
 
-*disable package (i didn't check it)*
+*disable package (I didn't check it)*
 
     $(apm list --installed --bare)
     $ apm disable package_name
+
+
+<br/>
+
+### Emmet For Fast HTML & CSS
+
+Atom Editor Tutorials #10 - Emmet For Fast HTML & CSS
+https://www.youtube.com/watch?v=BQurqKG6nGY
+
+
+http://docs.emmet.io/cheat-sheet/
+
+
+<br/>
+
+### inline-markdown-images
+
+    $ apm install inline-markdown-images
+
+
+![inline-markdown-images](http://raw.githubusercontent.com/some-atom/inline-markdown-images/master/preview.gif)

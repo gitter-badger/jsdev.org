@@ -8,6 +8,15 @@ permalink: /frontend/angular/v1/
 
 
 
+### AngularJS For Everyone
+
+<div align="center">
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLLnpHn493BHF6utwkwpo7RN-GPg1sZhvK" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
 ### [Java Brains] Thinking in Angular 1
 
 <div align="center">

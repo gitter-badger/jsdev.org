@@ -60,7 +60,7 @@ Dev::: ubuntu -> docker with debian jessie -> git on github \| bitbucket -> node
 
 ## CSS preprocessors
 
-less || sass || stylus
+less || <a href="/css/preprocessors/sass/">sass</a> || <a href="/css/preprocessors/stylus/">stylus</a>
 
 
 <br/>
@@ -119,7 +119,7 @@ require ||
 
 ## Compile to JavaScript
 
-TypeScript (by Microsoft) || CoffeScpipt || Dart (by Google)
+TypeScript (by Microsoft) || <a href="/compile-to-js/coffee-script/">CoffeScpipt</a> || Dart (by Google)
 
 
 
@@ -217,6 +217,13 @@ JSHint
 ## Continious Integration
 
 travis-ci | Jenkins
+
+
+<br/>
+
+## Website Performance
+
+<a href="/website-performance/">Website Performance</a>
 
 <br/>
 
