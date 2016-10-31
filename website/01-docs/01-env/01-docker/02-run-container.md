@@ -23,6 +23,16 @@ Docker scpript:
 
 <br/>
 
+**var 2:**
+
+    $ wget -O Dockerfile https://github.com/nodejs/docker-node/blob/master/6.9/Dockerfile?raw=true    
+
+<br/>
+
+**var 2:**
+
+<br/>
+
     $ vi Dockerfile
 
 <br/>
@@ -58,15 +68,16 @@ Docker scpript:
     CMD [ "node" ]
 
 
-<br/>
+After file has been created or copied:
 
-
+    // next command will create image with instructions from Dockerfile
     $ docker build -t image_jessie_node_6_8_1 .
 
 
 <br/>
 
 ### Step 2: Create and Run Docker Container
+
 
     $ project_name=my_project
 
