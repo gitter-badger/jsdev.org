@@ -23,7 +23,7 @@ Docker scpript:
 
 <br/>
 
-**var 2:**
+**var 1:**
 
     $ wget -O Dockerfile https://github.com/nodejs/docker-node/blob/master/6.9/Dockerfile?raw=true    
 
