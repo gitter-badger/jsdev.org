@@ -178,7 +178,7 @@ postman || firebug || Scratchpad
 
 ## Graphs, Charts, Diagrams
 
-D3.js || <a href="/charts/chartjs/">chart.js</a>
+<a href="/charts/">Graphs, Charts, Diagrams</a>
 
 
 <br/>
