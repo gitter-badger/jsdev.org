@@ -51,6 +51,10 @@ I'm planning to complete next video courses (just to remember):
 
 <ul>
 
+    <li><a href="https://www.youtube.com/watch?v=nBUT3TQeggo" rel="nofollow">API development in Node, Express, ES6 and MongoDB</a></li>
+
+    <li><a href="https://www.youtube.com/watch?v=A71aqufiNtQ" rel="nofollow">React JS Crash Course</a></li>
+
     <li><a href="https://www.youtube.com/watch?v=7MLXuG83Fsw" rel="nofollow">Intro To Memcached</a></li>
 
     <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51rLeDxRPlE6Hsnss3QDCCKc" rel="nofollow">Angular 2.0 Final - Getting Started</a></li>
