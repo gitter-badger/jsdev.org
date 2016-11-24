@@ -51,6 +51,8 @@ I'm planning to complete next video courses (just to remember):
 
 <ul>
 
+    <li><a href="https://www.youtube.com/playlist?list=PLLnpHn493BHGGHRmdXip3GswwLWY9S6of" rel="nofollow">Meteor 1.4 + React For Everyone</a></li>
+
     <li><a href="https://www.youtube.com/watch?v=pB7EwxwSfVk" rel="nofollow">Custom Bootstrap Theme With Sass</a></li>
 
     <li><a href="https://www.youtube.com/watch?v=nBUT3TQeggo" rel="nofollow">API development in Node, Express, ES6 and MongoDB</a></li>
