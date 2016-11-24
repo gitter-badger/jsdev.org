@@ -17,6 +17,10 @@ It is absolutely new website about javascript development with frameworks, docke
 
 ![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
 
+<br/>
+
+<a href="https://gitter.im/oracle-dba-ru/Lobby" rel="nofollow"><img src="https://badges.gitter.im/oracle-dba-ru/Lobby.svg" alt="jsdev chat room"></a>
+<a href="https://travis-ci.org/jsdev-org/jsdev.org.svg?branch=gh-pages" rel="nofollow"><img src="https://travis-ci.org/jsdev-org/jsdev.org.svg?branch=gh-pages" alt="oracle dba build status"></a>
 
 
 <br/>
